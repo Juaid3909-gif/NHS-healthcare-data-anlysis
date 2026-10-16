@@ -1,0 +1,23 @@
+step,rows_affected,detail
+Extract: raw rows loaded,1211,"unnamed leading index column dropped; header 'Fax,,,' repaired to 'Fax'"
+Trimmed / collapsed whitespace in text fields,24,
+Blank strings converted to NULL,3533,all columns combined
+Coordinates outside UK bounding box set to NULL,0,
+Missing coordinates left NULL,2,
+Invalid postcodes set to NULL,0,
+Missing postcode,1,
+"Cleaned trailing ',,,' artefacts in Phone",0,
+"Cleaned trailing ',,,' artefacts in Fax",1209,
+"Websites standardised (scheme added, host lower-cased, trailing '/' removed)",251,
+SubType 'UNKNOWN' relabelled 'Not Specified',244,
+"County labels standardised (Durham, Yorkshire(East Riding))",12,
+Missing county before imputation,238,
+County imputed from same city's most common county,181,
+County imputed from nearest hospital with known county (<=10 km),38,
+County still unknown -> 'Unknown County',19,
+Missing city -> 'Unknown City',15,
+Exact duplicate rows,0,none found
+Duplicate ODS codes / IDs,0,none found
+"Possible duplicate sites flagged (same name + postcode, different ODS code); kept, not deleted",4,
+Hospitals with at least one contact detail (rows in hospital_contacts),961,
+Load-ready hospitals rows,1211,

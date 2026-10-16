@@ -1,0 +1,308 @@
+parent_id,parent_ods_code,parent_name
+1,NMW,Abbey Sefton Hospital (University Hospital Aintree)
+2,RCF,Airedale NHS Foundation Trust
+3,RBS,Alder Hey Children's NHS Foundation Trust
+4,NN6,All Hallows Hospital
+5,NT9,Alliance Medical
+6,NQ1,Anglian Community Enterprise Community Interest Company (ACE CIC)
+7,NL5,Ascenti
+8,GC4,Aset Hospital Hassan Shaaban Limited
+9,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust
+10,NYW,Aspen Healthcare Limited
+11,RVN,Avon and Wiltshire Mental Health Partnership NHS Trust
+12,NT4,BMI Healthcare
+13,DAM,Barchester Healthcare Ltd
+14,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust"
+15,RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust"
+16,RFF,Barnsley Hospital NHS Foundation Trust
+17,R1H,Barts Health NHS Trust
+18,RC1,Bedford Hospital NHS Trust
+19,NWF,Benenden Hospital
+20,RWX,Berkshire Healthcare NHS Foundation Trust
+21,RYW,Birmingham Community Healthcare NHS Foundation Trust
+22,RQ3,Birmingham Women's and Children's NHS Foundation Trust
+23,RXT,Birmingham and Solihull Mental Health NHS Foundation Trust
+24,TAJ,Black Country Healthcare NHS Foundation Trust
+25,RXL,Blackpool Teaching Hospitals NHS Foundation Trust
+26,RMC,Bolton NHS Foundation Trust
+27,NMF,Brackley Hospital
+28,TAD,Bradford District NHS Foundation Trust
+29,RAE,Bradford Teaching Hospitals NHS Foundation Trust
+30,NIB,Brewood Medical Services Ltd
+31,RY2,Bridgewater Community Healthcare NHS Foundation Trust
+32,NMP,Bridgewater Hospital (Manchester) Ltd
+33,RXH,Brighton and Sussex University Hospitals NHS Trust
+34,NQ9,Brookdale Healthcare Ltd (T/A Brookdale Care)
+35,RXQ,Buckinghamshire Healthcare NHS Trust
+36,NV7,Bupa Group
+37,NQG,Burrswood Health and Wellbeing
+38,RJF,Burton Hospitals NHS Foundation Trust
+39,RWY,Calderdale and Huddersfield NHS Foundation Trust
+40,NTT,Cambian Healthcare Limited
+41,RGT,Cambridge University Hospitals NHS Foundation Trust
+42,RYV,Cambridgeshire Community Services NHS Trust
+43,RT1,Cambridgeshire and Peterborough NHS Foundation Trust
+44,TAF,Camden and Islington NHS Foundation Trust
+45,NT8,Capio UK
+46,RYX,Central London Community Healthcare NHS Trust
+47,RV3,Central and North West London NHS Foundation Trust
+48,NYY,Chartwell Private Hospitals Ltd
+49,RQM,Chelsea and Westminster Hospital NHS Foundation Trust
+50,RXA,Cheshire and Wirral Partnership NHS Foundation Trust
+51,RFS,Chesterfield Royal Hospital NHS Foundation Trust
+52,NX0,Chime Social Enterprise
+53,NV3,Circle Health
+54,NNF,City Health Care Partnership Cic
+55,RLN,City Hospitals Sunderland NHS Foundation Trust
+56,NTE,Claremont & St Hugh's Hospitals (Hmt)
+57,AAV,Community Health And Eyecare Limited
+58,AQT,Cornwall Hospice Care Limited
+59,RJ8,Cornwall Partnership NHS Foundation Trust
+60,RJR,Countess Of Chester Hospital NHS Foundation Trust
+61,RXP,County Durham and Darlington NHS Foundation Trust
+62,RYG,Coventry and Warwickshire Partnership NHS Trust
+63,RJ6,Croydon Health Services NHS Trust
+64,RX4,Cumbria Northumberland Tyne and Wear NHS Foundation Trust
+65,AHQ,Curocare Ltd Head Office
+66,NMJ,Cygnet Health Care Limited
+67,NNJ,DHU Health Care CIC
+68,RN7,Dartford and Gravesham NHS Trust
+69,RY8,Derbyshire Community Health Services NHS Foundation Trust
+70,RXM,Derbyshire Healthcare NHS Foundation Trust
+71,RWV,Devon Partnership NHS Trust
+72,NCN,Dmc Community Outpatient Services
+73,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust
+74,RBD,Dorset County Hospital NHS Foundation Trust
+75,RDY,Dorset Healthcare University NHS Foundation Trust
+76,NCK,E-Logica Ltd
+77,RJN,East Cheshire NHS Trust
+78,NAX,East Coast Community Healthcare C.I.C
+79,RVV,East Kent Hospitals University NHS Foundation Trust
+80,NN8,East Kent Medical Services Ltd
+81,RXR,East Lancashire Hospitals NHS Trust
+82,RWK,East London NHS Foundation Trust
+83,RDE,East Suffolk and North Essex NHS Foundation Trust
+84,RXC,East Sussex Healthcare NHS Trust
+85,RWH,East and North Hertfordshire NHS Trust
+86,DN7,Ellern Mede Barnet
+87,DE8,Elysium Healthcare
+88,RVR,Epsom and St Helier University Hospitals NHS Trust
+89,NVM,Epsomedical Group
+90,AHN,Equilibrium Healthcare
+91,R1L,Essex Partnership University NHS Foundation Trust
+92,NVG,Fairfield Hospital
+93,NDJ,First Community Health and Care
+94,AHH,Foscote Court (Banbury) Trust Ltd
+95,RDU,Frimley Health NHS Foundation Trust
+96,RR7,Gateshead Health NHS Foundation Trust
+97,RLT,George Eliot Hospital NHS Trust
+98,NLR,Gloucestershire Care Services Cic
+99,R1J,Gloucestershire Care Services NHS Trust
+100,RTQ,Gloucestershire Health and Care NHS Foundation Trust
+101,RTE,Gloucestershire Hospitals NHS Foundation Trust
+102,RP4,Great Ormond Street Hospital for Children NHS Foundation Trust
+103,RN3,Great Western Hospitals NHS Foundation Trust
+104,RXV,Greater Manchester Mental Health NHS Foundation Trust
+105,RJ1,Guy's and St Thomas' NHS Foundation Trust
+106,RN5,Hampshire Hospitals NHS Foundation Trust
+107,RCD,Harrogate and District NHS Foundation Trust
+108,NW6,Hca International
+109,RY4,Hertfordshire Community NHS Trust
+110,RWR,Hertfordshire Partnership University NHS Foundation Trust
+111,RQX,Homerton University Hospital NHS Foundation Trust
+112,RY9,Hounslow and Richmond Community Healthcare NHS Trust
+113,RWA,Hull University Teaching Hospitals NHS Trust
+114,RV9,Humber Teaching NHS Foundation Trust
+115,RYJ,Imperial College Healthcare NHS Trust
+116,NV1,InHealth Group Limited
+117,NCR,Isight
+118,R1F,Isle Of Wight NHS Trust
+119,RGP,James Paget University Hospitals NHS Foundation Trust
+120,NL0,John Munroe Hospital
+121,ADP,KIMS Hospital
+122,RYY,Kent Community Health NHS Foundation Trust
+123,RXY,Kent and Medway NHS and Social Care Partnership Trust
+124,RNQ,Kettering General Hospital NHS Foundation Trust
+125,RJZ,King's College Hospital NHS Foundation Trust
+126,RAX,Kingston Hospital NHS Foundation Trust
+127,DRH,Kinvara Private Hospital Ltd
+128,NBI,Lakeside Medical Diagnostics
+129,RW5,Lancashire & South Cumbria NHS Foundation Trust
+130,RXN,Lancashire Teaching Hospitals NHS Foundation Trust
+131,RR8,Leeds Teaching Hospitals NHS Trust
+132,RGD,Leeds and York Partnership NHS Foundation Trust
+133,RJ2,Lewisham and Greenwich NHS Trust
+134,RY5,Lincolnshire Community Health Services NHS Trust
+135,RP7,Lincolnshire Partnership NHS Foundation Trust
+136,RBQ,Liverpool Heart and Chest NHS Foundation Trust
+137,REM,Liverpool University Hospitals NHS Foundation Trust
+138,REP,Liverpool Women's NHS Foundation Trust
+139,NR5,Livewell Southwest
+140,DAY,Llr Provider Company Ltd
+141,R1K,London North West University Healthcare NHS Trust
+142,RC9,Luton and Dunstable University Hospital NHS Foundation Trust
+143,RWF,Maidstone and Tunbridge Wells NHS Trust
+144,NMQ,Making Space
+145,ANH,Malling Health UK Limited
+146,DKF,Manchester Private Clinic Ltd
+147,R0A,Manchester University NHS Foundation Trust
+148,NCE,Mastercall Healthcare
+149,DC8,Medical Imaging Partnership Ltd
+150,GFM,Medical Innovations Centre Ltd T/A Harley Street Specialist Hospital HQ
+151,NBG,Mediscan Diagnostics Services Limited
+152,RPA,Medway NHS Foundation Trust
+153,RW4,Mersey Care NHS Foundation Trust
+154,RBT,Mid Cheshire Hospitals NHS Foundation Trust
+155,RXF,Mid Yorkshire Hospitals NHS Trust
+156,RAJ,Mid and South Essex NHS Foundation Trust
+157,RRE,Midlands Partnership NHS Foundation Trust
+158,RD8,Milton Keynes University Hospital NHS Foundation Trust
+159,RP6,Moorfields Eye Hospital NHS Foundation Trust
+160,AXL,Mundesley Hospital
+161,AWT,Mya Cosmetic Surgery Limited
+162,NT7,Netcare Healthcare UK
+163,RY3,Norfolk Community Health and Care NHS Trust
+164,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust
+165,RMY,Norfolk and Suffolk NHS Foundation Trust
+166,RVJ,North Bristol NHS Trust
+167,RNN,North Cumbria Integrated Care NHS Foundation Trust
+168,RNL,North Cumbria University Hospitals NHS Trust
+169,RAT,North East London NHS Foundation Trust
+170,RAP,North Middlesex University Hospital NHS Trust
+171,NLT,North Somerset Community Partnership Community Interest Company
+172,RLY,North Staffordshire Combined Healthcare NHS Trust
+173,RVW,North Tees and Hartlepool NHS Foundation Trust
+174,RGN,North West Anglia NHS Foundation Trust
+175,RNS,Northampton General Hospital NHS Trust
+176,RP1,Northamptonshire Healthcare NHS Foundation Trust
+177,RBZ,Northern Devon Healthcare NHS Trust
+178,RJL,Northern Lincolnshire and Goole NHS Foundation Trust
+179,RTF,Northumbria Healthcare NHS Foundation Trust
+180,RX1,Nottingham University Hospitals NHS Trust
+181,RHA,Nottinghamshire Healthcare NHS Foundation Trust
+182,NT2,Nuffield Health
+183,AVQ,One Healthcare
+184,NNH,Optegra UK
+185,NQM,Orthopaedics and Spine Specialist Hospital
+186,NTY,Other Private Healthcare Providers
+187,RNU,Oxford Health NHS Foundation Trust
+188,RTH,Oxford University Hospitals NHS Foundation Trust
+189,RPG,Oxleas NHS Foundation Trust
+190,NMV,Partnerships In Care Ltd
+191,NV6,Pds Medical Ltd
+192,NVD,Peninsula Plastic Surgery Ltd
+193,NEF,Peninsula Ultrasound Limited
+194,RW6,Pennine Acute Hospitals NHS Trust
+195,RT2,Pennine Care NHS Foundation Trust
+196,DM8,Phoenix Hospital Group
+197,RD3,Poole Hospital NHS Foundation Trust
+198,RHU,Portsmouth Hospitals NHS Trust
+199,NTP,Practice Plus Group
+200,NTN,Priory Group Limited
+201,RPC,Queen Victoria Hospital NHS Foundation Trust
+202,NVC,Ramsay Healthcare UK Operations Limited
+203,NRC,Riverdale Grange Limited
+204,RL1,Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust
+205,RXE,Rotherham Doncaster and South Humber NHS Foundation Trust
+206,RHW,Royal Berkshire NHS Foundation Trust
+207,RT3,Royal Brompton and Harefield NHS Foundation Trust
+208,REF,Royal Cornwall Hospitals NHS Trust
+209,RH8,Royal Devon and Exeter NHS Foundation Trust
+210,RAL,Royal Free London NHS Foundation Trust
+211,RAN,Royal National Orthopaedic Hospital NHS Trust
+212,RGM,Royal Papworth Hospital NHS Foundation Trust
+213,RA2,Royal Surrey NHS Foundation Trust
+214,RD1,Royal United Hospitals Bath NHS Foundation Trust
+215,GED,Rushcliffe Care
+216,RM3,Salford Royal NHS Foundation Trust
+217,RNZ,Salisbury NHS Foundation Trust
+218,RXK,Sandwell and West Birmingham Hospitals NHS Trust
+219,NEN,Serco Ltd
+220,RCU,Sheffield Children's NHS Foundation Trust
+221,TAH,Sheffield Health and Social Care NHS Foundation Trust
+222,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust
+223,RK5,Sherwood Forest Hospitals NHS Foundation Trust
+224,RXW,Shrewsbury and Telford Hospital NHS Trust
+225,R1D,Shropshire Community Health NHS Trust
+226,NLX,Sirona Care & Health
+227,R1C,Solent NHS Trust
+228,RH5,Somerset Partnership NHS Foundation Trust
+229,RV5,South London and Maudsley NHS Foundation Trust
+230,RTR,South Tees Hospitals NHS Foundation Trust
+231,R0B,South Tyneside And Sunderland NHS Foundation Trust
+232,RE9,South Tyneside NHS Foundation Trust
+233,RJC,South Warwickshire NHS Foundation Trust
+234,RQY,South West London and St George's Mental Health NHS Trust
+235,RXG,South West Yorkshire Partnership NHS Foundation Trust
+236,RW1,Southern Health NHS Foundation Trust
+237,RVY,Southport and Ormskirk Hospital NHS Trust
+238,NPG,Spamedica
+239,NT3,Spire Healthcare
+240,RJ7,St George's University Hospitals NHS Foundation Trust
+241,NM6,St Georges Hospital Ltd
+242,RBN,St Helens and Knowsley Hospitals NHS Trust
+243,GAP,St Jude's Women's Hospital
+244,DJ0,St Lukes Hospice (Harrow)
+245,NR6,St. Luke's Health Care
+246,RWJ,Stockport NHS Foundation Trust
+247,DJQ,Surrey Healthy Children And Families LLP
+248,RXX,Surrey and Borders Partnership NHS Foundation Trust
+249,RTP,Surrey and Sussex Healthcare NHS Trust
+250,RDR,Sussex Community NHS Foundation Trust
+251,RX2,Sussex Partnership NHS Foundation Trust
+252,RMP,Tameside Hospital NHS Foundation Trust
+253,RBA,Taunton and Somerset NHS Foundation Trust
+254,RX3,"Tees, Esk and Wear Valleys NHS Foundation Trust"
+255,RBV,The Christie NHS Foundation Trust
+256,REN,The Clatterbridge Cancer Centre NHS Foundation Trust
+257,RNA,The Dudley Group NHS Foundation Trust
+258,RAS,The Hillingdon Hospitals NHS Foundation Trust
+259,NXM,The Horder Centre
+260,NV2,The Huntercombe Group
+261,DX1,The New Foscote Hospital Ltd
+262,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust
+263,RQW,The Princess Alexandra Hospital NHS Trust
+264,RCX,"The Queen Elizabeth Hospital, King's Lynn. NHS Foundation Trust"
+265,NPE,The Retreat Hospital
+266,RFR,The Rotherham NHS Foundation Trust
+267,RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust
+268,DJH,The Royal Buckinghamshire Hospital Ltd
+269,NN1,The Royal Hospital For Neuro-Disability
+270,RPY,The Royal Marsden NHS Foundation Trust
+271,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust
+272,RL4,The Royal Wolverhampton NHS Trust
+273,RET,The Walton Centre NHS Foundation Trust
+274,RA9,Torbay and South Devon NHS Foundation Trust
+275,AXA,Tower Hamlets Gp Care Group CIC
+276,NLS,Trent Pts
+277,RWD,United Lincolnshire Hospitals NHS Trust
+278,RRV,University College London Hospitals NHS Foundation Trust
+279,RHM,University Hospital Southampton NHS Foundation Trust
+280,RTG,University Hospital of Derby and Burton NHS Foundation Trust
+281,RRK,University Hospitals Birmingham NHS Foundation Trust
+282,RA7,University Hospitals Bristol and Weston NHS Foundation Trust
+283,RKB,University Hospitals Coventry and Warwickshire NHS Trust
+284,R0D,University Hospitals Dorset NHS Foundation Trust
+285,RWE,University Hospitals Of Leicester NHS Trust
+286,RTX,University Hospitals Of Morecambe Bay NHS Foundation Trust
+287,RK9,University Hospitals Plymouth NHS Trust
+288,RJE,University Hospitals of North Midlands
+289,NQT,Virgin Care Ltd
+290,NDA,Virgin Care Services Ltd
+291,RBK,Walsall Healthcare NHS Trust
+292,RWW,Warrington and Halton Hospitals NHS Foundation Trust
+293,AXC,Welbeck Healthcare Limited
+294,RWG,West Hertfordshire Hospitals NHS Trust
+295,RKL,West London NHS Trust
+296,RGR,West Suffolk NHS Foundation Trust
+297,RYR,Western Sussex Hospitals NHS Foundation Trust
+298,RKE,Whittington Health NHS Trust
+299,AXG,Wiltshire Health & Care
+300,RBL,Wirral University Teaching Hospital NHS Foundation Trust
+301,NR1,Woodside Hospital
+302,RWP,Worcestershire Acute Hospitals NHS Trust
+303,R1A,Worcestershire Health and Care NHS Trust
+304,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust"
+305,RLQ,Wye Valley NHS Trust
+306,RA4,Yeovil District Hospital NHS Foundation Trust
+307,RCB,York Teaching Hospital NHS Foundation Trust

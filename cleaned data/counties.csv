@@ -1,0 +1,55 @@
+county_id,county_name,region_id
+1,Avon,7
+2,Bedfordshire,2
+3,Berkshire,6
+4,Buckinghamshire,6
+5,Cambridgeshire,2
+6,Cheshire,5
+7,Cleveland,4
+8,Cornwall,7
+9,County Durham,4
+10,Cumbria,5
+11,Derbyshire,1
+12,Devon,7
+13,Dorset,7
+14,East Riding of Yorkshire,10
+15,East Sussex,6
+16,Essex,2
+17,Gloucestershire,7
+18,Greater London,3
+19,Greater Manchester,5
+20,Hampshire,6
+21,Herefordshire,9
+22,Hertfordshire,2
+23,Isle of Wight,6
+24,Kent,6
+25,Lancashire,5
+26,Leicestershire,1
+27,Lincolnshire,1
+28,Merseyside,5
+29,Middlesex,3
+30,Norfolk,2
+31,North Humberside,10
+32,North Yorkshire,10
+33,Northamptonshire,1
+34,Northumberland,4
+35,Nottinghamshire,1
+36,Oxfordshire,6
+37,Rutland,1
+38,Shropshire,9
+39,Somerset,7
+40,South Humberside,10
+41,South Yorkshire,10
+42,Staffordshire,9
+43,Suffolk,2
+44,Surrey,6
+45,Sussex,6
+46,Tyne and Wear,4
+47,Unknown County,8
+48,Warwickshire,9
+49,West Midlands,9
+50,West Sussex,6
+51,West Yorkshire,10
+52,Wiltshire,7
+53,Worcestershire,9
+54,Yorkshire,10

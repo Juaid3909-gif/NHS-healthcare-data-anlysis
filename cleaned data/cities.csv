@@ -1,0 +1,550 @@
+city_id,city_name,county_id
+1,101 Manthorpe Road,27
+2,Abbots Langley,22
+3,Abingdon,36
+4,Accrington,25
+5,Alnwick,34
+6,Alston,10
+7,Alton,20
+8,Altrincham,6
+9,Amersham,4
+10,Andover,20
+11,Arnold,35
+12,Arundel,45
+13,Ascot,3
+14,Ashbourne,11
+15,Ashford,24
+16,Ashford,29
+17,Ashington,34
+18,Ashtead,44
+19,Ashton Under Lyne,25
+20,Attleborough,30
+21,Axminster,12
+22,Aylesbury,4
+23,Bakewell,11
+24,"Balby, Doncaster",41
+25,Banbury,36
+26,Barking,16
+27,Barnard Castle,47
+28,Barnet,22
+29,Barnsley,41
+30,Barnsley,54
+31,Barnstaple,12
+32,Barrow-In-Furness,10
+33,Basingstoke,20
+34,Bath,1
+35,Beccles,43
+36,Beckenham,24
+37,"Beckenham, London",44
+38,Bedford,2
+39,Berkeley,17
+40,Berkshire,3
+41,Berwick-upon-Tweed,34
+42,Beverley,31
+43,Bexhill-on-Sea,45
+44,Bexleyheath,24
+45,Bicester,36
+46,Biddenham,2
+47,Bideford,12
+48,Bilborough,35
+49,Billericay,16
+50,Billingham,7
+51,Bingley,51
+52,Birkenhead,28
+53,Birmingham,49
+54,Birmingham (SatNav B5 7SA),49
+55,Bishop Auckland,9
+56,Bishop's Castle,38
+57,Bishop's Stortford,22
+58,Blackburn,25
+59,Blackpool,25
+60,Blandford Forum,13
+61,Blyth,34
+62,Bodmin,8
+63,Bognor Regis,50
+64,Bolton,25
+65,Bordon,20
+66,Boston,27
+67,Bournemouth,13
+68,Brackley,33
+69,Bradford,51
+70,Brampton,10
+71,Brentwood,16
+72,Bridgnorth,38
+73,Bridgwater,39
+74,Bridlington,14
+75,Bridport,13
+76,Brighouse,51
+77,Brighton,15
+78,Bristol,1
+79,Brixham,12
+80,Bromley,24
+81,Bromsgrove,53
+82,Bromyard,47
+83,Buckhurst Hill,16
+84,Buckingham,47
+85,Buckinghamshire,4
+86,Bude,8
+87,Budleigh Salterton,12
+88,Bungay,43
+89,Burnham-On-Sea,39
+90,Burnley,25
+91,Burton-On-Trent,42
+92,Bury,25
+93,Bury St. Edmunds,43
+94,Bushey,22
+95,Buxton,11
+96,Camberley,44
+97,Cambridge,5
+98,Cannock,42
+99,Canterbury,24
+100,Carlisle,10
+101,Carlton Colville,43
+102,Carshalton,44
+103,Caterham,44
+104,Chalfont St Peter,29
+105,Chard,39
+106,Chatham,24
+107,Cheadle,6
+108,Chelmsford,16
+109,Cheltenham,17
+110,Chertsey,44
+111,Chester,6
+112,Chester Le Street,9
+113,Chesterfield,11
+114,Chichester,50
+115,Chippenham,52
+116,Chorley,25
+117,Christchurch,13
+118,Cinderford,17
+119,Cirencester,47
+120,City of London,18
+121,Clacton,16
+122,Clevedon,1
+123,Clitheroe,25
+124,Cobham,44
+125,Cockermouth,10
+126,Colchester,16
+127,Congleton,6
+128,Consett,9
+129,Corby,33
+130,Cottingham,14
+131,Coventry,48
+132,Cramlington,34
+133,Cranbrook,24
+134,Crawley,50
+135,Crediton,12
+136,Crewe,6
+137,Crewkerne,39
+138,Cromer,30
+139,Crowborough,15
+140,Crowthorne,3
+141,Croydon,44
+142,Darlington,9
+143,Dartford,24
+144,Daventry,33
+145,Dawlish,12
+146,Deal,24
+147,Derby,11
+148,Dereham,30
+149,Devizes,52
+150,Dewsbury,51
+151,Didcot,36
+152,Doddington,5
+153,Doncaster,41
+154,Doncaster,54
+155,Dorchester,13
+156,Dover,24
+157,Driffield,14
+158,Droitwich,53
+159,Dudley,49
+160,Durham,9
+161,Dursley,17
+162,Ealing,18
+163,East Grinstead,50
+164,Eastbourne,15
+165,Eastleigh,20
+166,Edenbridge,24
+167,Edgware,29
+168,Elland,51
+169,Ellesmere Port,28
+170,Ely,5
+171,Emsworth,20
+172,Enfield,29
+173,Epsom,44
+174,Erith,24
+175,Essex,16
+176,Evesham,53
+177,Exeter,12
+178,Exmouth,12
+179,Eye,43
+180,Fairford,47
+181,Falmouth,8
+182,Fareham,20
+183,Faringdon,36
+184,Farnham,44
+185,Faversham,24
+186,Felixstowe,43
+187,Fleet,20
+188,Fleetwood,25
+189,Folkestone,24
+190,Fordingbridge,47
+191,Fowey,8
+192,Frome,39
+193,Gainsborough,27
+194,Gateshead,46
+195,Gillingham,24
+196,Glastonbury,39
+197,Glossop,11
+198,Gloucester,17
+199,Gloucestershire,47
+200,Godalming,44
+201,Goole,31
+202,Gorleston on Sea,30
+203,Gosport,20
+204,Grantham,27
+205,Gravesend,24
+206,Grays,16
+207,Great Missenden,4
+208,Great Yarmouth,30
+209,Grimsby,40
+210,Guildford,44
+211,Guisborough,7
+212,Hailsham,15
+213,Halesowen,49
+214,Halifax,51
+215,Halstead,16
+216,Haltwhistle,34
+217,Harefield,29
+218,Harlow,16
+219,Harpenden,22
+220,Harrogate,32
+221,Harrow,29
+222,Harrow on the Hill,29
+223,Hartlepool,7
+224,Harwich,16
+225,Haslemere,44
+226,Hatfield,22
+227,Havant,20
+228,Hayle,8
+229,Haywards Heath,50
+230,Heathfield,15
+231,Helston,8
+232,Hemel Hempstead,22
+233,Henley-on-Thames,36
+234,Hereford,21
+235,Herne Bay,24
+236,Hertford,22
+237,Hexham,34
+238,High Wycombe,4
+239,Hinckley,26
+240,Hitchin,22
+241,Holmfirth,51
+242,Holsworthy,12
+243,Holt,30
+244,Honiton,12
+245,Hook,20
+246,Horley,44
+247,Horncastle,27
+248,Hornsea,47
+249,Horsham,50
+250,Hove,15
+251,Huddersfield,51
+252,Hull,14
+253,Huntingdon,5
+254,Ilford,16
+255,Ilfracombe,12
+256,Ilkeston,11
+257,Ilkley,51
+258,Ipswich,43
+259,Isleworth,29
+260,Jarrow,46
+261,Jersey,47
+262,Keighley,51
+263,Kendal,47
+264,"Kensington and Chelsea, London",18
+265,Kenton,29
+266,Keswick,10
+267,Kettering,33
+268,Kidderminster,53
+269,King's Lynn,30
+270,Kingsbridge,12
+271,Kingston Upon Thames,44
+272,Knutsford,6
+273,LINCOLN,27
+274,Lancaster,25
+275,Launceston,8
+276,Leamington Spa,48
+277,Leeds,51
+278,Leek,42
+279,Leicester,26
+280,Leigh,25
+281,Leigh-On-Sea,16
+282,Leominster,47
+283,Lewes,15
+284,Lichfield,42
+285,Lincoln,27
+286,Liskeard,8
+287,Liverpool,28
+288,London,18
+289,Longfield,24
+290,Louth,27
+291,Ludlow,38
+292,Luton,2
+293,Lutterworth,47
+294,Lydney,17
+295,Lymington,20
+296,Lyndhurst,20
+297,Lytham St. Annes,25
+298,Macclesfield,6
+299,Maidenhead,3
+300,Maidstone,24
+301,Malmesbury,52
+302,Malton,32
+303,Malvern,53
+304,Manchester,19
+305,Mansfield,35
+306,Margate,24
+307,Market Harborough,26
+308,Marlborough,52
+309,Marlow,3
+310,Maryport,10
+311,Matlock,11
+312,Melksham,52
+313,Melton Mowbray,26
+314,Mexborough,41
+315,Middlesbrough,7
+316,Midhurst,50
+317,Milton Keynes,4
+318,Minehead,39
+319,Mitcham,44
+320,Morecambe,25
+321,Moreton-In-Marsh,17
+322,Morpeth,34
+323,Nelson,25
+324,Newark,35
+325,Newcastle,42
+326,Newcastle Under Lyme,42
+327,Newcastle Upon Tyne,46
+328,Newcastle under Lyme,42
+329,Newcastle-upon-Tyne,46
+330,Newport,23
+331,Newquay,8
+332,Newton Abbot,12
+333,Newton-Le-Willows,28
+334,North Shields,46
+335,North Walsham,30
+336,Northallerton,32
+337,Northampton,33
+338,Northwich,6
+339,Northwood,29
+340,Norwich,30
+341,Nottingham,35
+342,Nuneaton,48
+343,Oakham,37
+344,Okehampton,12
+345,Oldham,25
+346,Ormskirk,25
+347,Orpington,24
+348,Ossett,51
+349,Oswestry,38
+350,Otley,51
+351,Ottery St Mary,12
+352,Oulton,43
+353,Oxford,36
+354,Paignton,12
+355,Penrith,47
+356,Penzance,8
+357,Pershore,53
+358,Peterborough,5
+359,Peterlee,9
+360,Petersfield,20
+361,Plymouth,12
+362,Pontefract,51
+363,Poole,13
+364,Portland,13
+365,Portsmouth,20
+366,Potters Bar,22
+367,Prescot,28
+368,Preston,25
+369,Princes Risborough,4
+370,Prudhoe,34
+371,Purley,44
+372,Radlett,22
+373,Reading,3
+374,Redcar,7
+375,Redditch,53
+376,Redhill,44
+377,Redruth,8
+378,Retford,35
+379,Richmond,32
+380,Richmond,44
+381,Ringwood,13
+382,Ripley,11
+383,Ripon,32
+384,Rochdale,25
+385,Rochford,16
+386,Romford,16
+387,Romsey,20
+388,Ross-on-Wye,21
+389,Rotherham,41
+390,Rowley Regis,49
+391,Royston,22
+392,Rugby,48
+393,Runcorn,6
+394,Rye,15
+395,Saffron Walden,16
+396,Salford,19
+397,Salisbury,52
+398,Saltash,8
+399,Saltburn-By-The-Sea,7
+400,Sawbridgeworth,22
+401,Scarborough,32
+402,Scunthorpe,27
+403,Seaton,12
+404,Selby,32
+405,Settle,32
+406,Sevenoaks,24
+407,Shaftesbury,13
+408,Sheerness,24
+409,Sheffield,41
+410,Shepton Mallet,39
+411,Sherborne,13
+412,Shipley,51
+413,Shipston-on-Stour,48
+414,Shoreham-By-Sea,50
+415,Shrewsbury,38
+416,Sidcup,24
+417,Sidmouth,12
+418,Sittingbourne,24
+419,Skegness,27
+420,Skipton,32
+421,Slough,3
+422,Solihull,49
+423,South Molton,12
+424,South Petherton,39
+425,South Shields,46
+426,Southall,29
+427,Southampton,20
+428,Southend-on-Sea,16
+429,Southport,28
+430,Southsea,20
+431,Spalding,27
+432,St. Albans,22
+433,St. Austell,8
+434,St. Helens,28
+435,St. Ives,8
+436,St. Leonards-on-Sea,15
+437,St. Marys,47
+438,Stafford,42
+439,Staffordshire,42
+440,Stamford,27
+441,Stanmore,29
+442,Stevenage,22
+443,Stockport,6
+444,Stockton-On-Tees,7
+445,Stockton-on-Tees,7
+446,Stoke-On-Trent,42
+447,Stoke-on-Trent,42
+448,Stourbridge,49
+449,Stratford-upon-Avon,48
+450,Stroud,17
+451,Sudbury,43
+452,Sunderland,46
+453,Surbiton,44
+454,Surrey,47
+455,Sutton,44
+456,Sutton Coldfield,49
+457,Sutton-In-Ashfield,35
+458,Swaffham,30
+459,Swanage,13
+460,Swindon,52
+461,Tamworth,42
+462,Tarporley,6
+463,Taunton,39
+464,Tavistock,12
+465,Teddington,29
+466,Teignmouth,12
+467,Telford,38
+468,Tenbury Wells,53
+469,Tetbury,17
+470,Thame,47
+471,Thatcham,3
+472,Thirsk,32
+473,Thornton Heath,44
+474,Tiverton,12
+475,Tonbridge,24
+476,Torquay,12
+477,Torrington,12
+478,Totnes,12
+479,Trowbridge,52
+480,Truro,8
+481,Tunbridge Wells,24
+482,Uckfield,15
+483,Ulverston,10
+484,Unknown City,1
+485,Unknown City,12
+486,Unknown City,17
+487,Unknown City,18
+488,Unknown City,21
+489,Unknown City,22
+490,Unknown City,25
+491,Unknown City,30
+492,Unknown City,41
+493,Unknown City,42
+494,Unknown City,43
+495,Unknown City,47
+496,Uxbridge,29
+497,Wadhurst,15
+498,Wakefield,51
+499,Wallasey,28
+500,Wallingford,36
+501,Walsall,49
+502,Waltham Abbey,16
+503,Waltham Cross,22
+504,Walton-on-Thames,44
+505,Wantage,36
+506,Wareham,13
+507,Warminster,52
+508,Warrington,6
+509,Warwick,48
+510,Washington,46
+511,Watford,22
+512,Wellingborough,33
+513,Wellington,39
+514,Wells-Next-The-Sea,30
+515,Welwyn,22
+516,Welwyn Garden City,22
+517,West Bromwich,49
+518,Westbury,52
+519,Westcliff-on-Sea,16
+520,Weston-Super-Mare,1
+521,Weymouth,13
+522,Whitby,32
+523,Whitchurch,38
+524,Whitehaven,10
+525,Whitstable,24
+526,Widnes,28
+527,Wigan,25
+528,Wigton,47
+529,Wilmslow,6
+530,Wimborne,13
+531,Wincanton,39
+532,Winchester,20
+533,Windsor,3
+534,Winsford,6
+535,Wirral,6
+536,Wirral,28
+537,Wisbech,5
+538,Withernsea,31
+539,Witney,36
+540,Woking,44
+541,Wokingham,3
+542,Wolverhampton,49
+543,Worcester,53
+544,Workington,10
+545,Worksop,35
+546,Worthing,50
+547,Wrexham,47
+548,Yeovil,39
+549,York,32

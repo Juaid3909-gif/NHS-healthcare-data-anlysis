@@ -1,0 +1,962 @@
+hospital_id,phone,email,website,fax
+17970,01932 414205,,,01932 253674
+17981,01483 715911,,,
+18102,01275 872212,,http://www.nscphealth.co.uk,
+18138,0161 2270000,,https://www.bridgewaterhospital.com,
+18142,01763 255 700,reception_kneesworthhouse@partnershipsincare.co.uk,https://www.partnershipsincare.co.uk,
+18143,01904 400 500,info@priorygroup.com,https://www.priorygroup.com/stockton-hall,
+18271,01255 201200,,,
+18272,01255 201717,,https://www.esneft.nhs.uk/your-visit/our-wards/clacton-hospital,01206 286710
+18305,01733 333156,info@orthospine.co.uk,,01733 373050
+18314,01752 314800,,,01752 314804
+18317,01752 268011,,https://www.livewellsouthwest.co.uk,
+18351,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/individuals/centres/b/bournemouth,
+18352,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/brentwoodhospital,
+18353,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/brightonhospital,
+18354,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/hospitals/bristol,
+18356,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/cambridgehospital,
+18357,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/thegrosvenorhospitalchester,
+18358,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/cheltenhamhospital,
+18359,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/chichesterhospital,
+18360,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/derbyhospital,
+18361,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/hospitals/wessex,
+18362,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/exeterhospital,
+18363,01483 555800,,http://www.nuffieldhealth.com/guildfordhospital,
+18365,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/haywards-heathhospital,
+18366,01432 355131,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/herefordhospital,01432 344061
+18367,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/ipswichhospital,
+18368,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/warwickshirehospital,
+18369,0113 388 2000,leedsnuffield@nhs.net,https://www.nuffieldhealth.com/hospitals/leeds,0113 3882187
+18370,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/leicesterhospital,
+18371,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/newcastle-upon-tynehospital,
+18372,01782 382551,customerservice.enq@nuffieldhealth.com,http://www.nuffieldhealth.com/northstaffordshirehospital,
+18373,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/plymouthhospital,
+18374,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/shrewsburyhospital,
+18375,0800 015 5020,tees.enquiries2@nuffieldhealth.com,http://www.nuffieldhealth.com/teeshospital,
+18376,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/tauntonhospital,
+18377,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/tunbridgewellshospital,
+18378,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/wokinghospital,
+18379,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/hospitals/wolverhampton,
+18380,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/themanorhospitaloxford,
+18381,0800 015 5020,nuffieldhealth.ereferrals@nhs.net,http://www.nuffieldhealth.com/yorkhospital,
+18385,01905 350 003,cservice-sb@spirehealthcare.com,https://www.spirehealthcare.com/spire-south-bank-hospital,01905 362 031
+18386,0117 980 4000,info@spirebristol.com,https://www.spirehealthcare.com/spire-bristol-hospital,0117 974 3203
+18388,023 8077 5544,spire.southampton@nhs.net,https://www.spirehealthcare.com/spire-southampton-hospital,
+18389,02392 456 172,info@spireportsmouth.com,https://www.spirehealthcare.com/spire-portsmouth-hospital,
+18390,01293 785511,spire.nhsteamgpk@nhs.net,https://www.spirehealthcare.com/spire-gatwick-park-hospital,
+18391,01424 757400,info@spiresussex.com,https://www.spirehealthcare.com/spire-sussex-hospital,01424 757 424
+18392,01892 740 047,info@spiretunbridgewells.com,https://www.spirehealthcare.com/spire-tunbridge-wells-hospital,01892 740046
+18393,01634 687166,cservice-al@spirehealthcare.com,https://www.spirehealthcare.com/spire-alexandra-hospital,01634 686 162
+18394,01702 462944,spire.wellesley@nhs.net,https://www.spirehealthcare.com/spire-wellesley-hospital,01702 447937
+18395,020 8709 7878,spire.londoneast@nhs.net,https://www.spirehealthcare.com/spire-london-east-hospital,020 8709 7877
+18396,020 8901 5572,spire.bushey@nhs.net,https://www.spirehealthcare.com/spire-bushey-hospital,020 8950 7556
+18397,01582 763191,spire.harpenden@nhs.net,https://www.spirehealthcare.com/spire-harpenden-hospital,0800 585 112
+18398,01223 266 900,info@spirecambridge.com,https://www.spirehealthcare.com/spire-cambridge-lea-hospital,01223 233 421
+18399,01603 456 181,spire.norwich@nhs.net,https://www.spirehealthcare.com/spire-norwich-hospital,
+18400,01277 232 525,spire.hartswood@nhs.net,https://www.spirehealthcare.com/spire-hartswood-hospital,
+18401,0121 704 1451,spire.parkway@nhs.net,https://www.spirehealthcare.com/spire-parkway-hospital,0121 711 3436
+18402,0121 353 2444,info@spirelittleaston.com,https://www.spirehealthcare.com/spire-little-aston-hospital,0121 353 6897
+18403,0116 265 3685,info@spireleicester.com,https://www.spirehealthcare.com/spire-leicester-hospital,0116 272 0666
+18404,01925 265 000,spire.cheshire@nhs.net,https://www.spirehealthcare.com/spire-cheshire-hospital,0800 195 3572
+18405,0151 648 7000,spire.murrayfield.nhsoffice@nhs.net,https://www.spirehealthcare.com/spire-murrayfield-hospital-wirral,0151 648 0481
+18406,0161 447 6677,info@spiremanchester.com,https://www.spirehealthcare.com/spire-manchester-hospital,0161 447 6678
+18407,0113 269 3939,spire.leeds@nhs.net,https://www.spirehealthcare.com/spire-leeds-hospital,0113 218 5920
+18408,0191 418 8669,spire.washington@nhs.net,https://www.spirehealthcare.com/spire-washington-hospital,0191 418 8606
+18409,0151 733 7123,spire.liverpool@nhs.net,https://www.spirehealthcare.com/spire-liverpool-hospital,0151 733 8043
+18410,01625 501150,spire.regencyhospnhs@nhs.net,https://www.spirehealthcare.com/spire-regency-hospital-macclesfield,01625 501800
+18412,01753 662 241,cservice-tv@spirehealthcare.com,https://www.spirehealthcare.com/spire-thames-valley-hospital,
+18413,0118 9587676,spire.dunedin@nhs.net,https://www.spirehealthcare.com/spire-dunedin-hospital,0118 9585531
+18414,01252 850216,info@spireclarepark.com,https://www.spirehealthcare.com/spire-clare-park-hospital,
+18416,01253 394 188,info@spirefyldecoast.com,https://www.spirehealthcare.com/spire-fylde-coast-hospital,0800 587 4105
+18417,01422 324000,spire.elland@nhs.net,https://www.spirehealthcare.com/spire-elland-hospital,0800 138 8804
+18419,01977 518518,spire.methleypark@nhs.net,https://www.spirehealthcare.com/spire-methley-park-hospital,
+18420,01482 659471,spire.hull@nhs.net,https://www.spirehealthcare.com/spire-hull-and-east-riding-hospital,01482 654033
+18421,01273 828 120,montefioreinfo@spirehealthcare.com,http://themontefiorehospital.co.uk,01273 828 130
+18423,0161 428 3656,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-alexandra-hospital,0161 491 3867
+18424,01225 835555,bath@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-bath-clinic,01225 835900
+18425,01254 507607,beardwood@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-beardwood-hospital,01254 507608
+18426,01204 404404,beaumont@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-beaumont-hospital,01204 404488
+18427,01923 835814,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-bishops-wood-hospital,01923 835181
+18428,020 8108 3076,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-blackheath-hospital,020 8318 2542
+18430,01227 825100,chaucer@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-chaucer-hospital,01227 762733
+18431,01689 877855,,https://www.bmihealthcare.co.uk/hospitals/bmi-chelsfield-park-hospital,01689 837439
+18432,01494 890890,chiltern@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-chiltern-hospital,01494 890250
+18433,020 8872 3872,cch@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-clementine-churchill-hospital,
+18434,01905 793333,droitwich@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-droitwich-spa-hospital,01905 793334
+18438,020 8457 4500,garden@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-hendon-hospital,020 8457 4567
+18439,01903 506699,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-goring-hall-hospital,01903 242348
+18441,01202 244200,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-harbour-hospital,01202 244201
+18442,01706 655121,highfield@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-highfield-hospital,01706 356759
+18443,020 8370 9500,kingsoak@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-kings-oak-hospital,020 8370 9501
+18444,020 7780 2400,lih@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-london-independent-hospital,020 7780 2401
+18445,01234 364252,manor@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-manor-hospital,01234 325001
+18446,024 7664 7000,meriden@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-meriden-hospital,024 7664 7001
+18449,0115 9662000,,https://www.bmihealthcare.co.uk/hospitals/bmi-the-park-hospital,0115 9670381
+18450,01753 743434,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-princess-margaret-hospital,01753 743435
+18451,0121 4402323,priory@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-priory-hospital,0121 4400804
+18452,01793 814848,ridgeway@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-ridgeway-hospital,01793 814852
+18453,01932 877800,runnymede@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-runnymede-hospital,01932 875433
+18455,01962 844555,sarum@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-sarum-road-hospital,01962 842620
+18456,01908 665533,saxon@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-saxon-clinic,01908 608112
+18457,01494 888700,shelburne@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-shelburne-hospital,01494 888701
+18458,0208 655 5500,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-shirley-oaks-hospital,0208 655 5555
+18459,020 8466 4000,,https://www.bmihealthcare.co.uk/hospitals/bmi-the-sloane-hospital,020 8466 4001
+18462,0114 2661133,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-thornbury-hospital,0114 2686913
+18463,01604 801043,,https://www.bmihealthcare.co.uk/hospitals/bmi-three-shires-hospital,01604 629066
+18464,01305 263252,winterbourne@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-winterbourne-hospital,01305 265424
+18466,0121 456 2000,birminghamenquiries@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-edgbaston-hospital,0121 454 5293
+18467,01284 701 371,burypatientservices@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-st-edmunds-hospital,
+18468,01423 567 136,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-duchy-hospital,01423 524 381
+18469,01484 533 131,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-huddersfield-hospital,01484 428 396
+18470,01524 62345,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-lancaster-hospital,01524 844 725
+18471,01522 578 000,,https://www.bmihealthcare.co.uk/hospitals/bmi-the-lincoln-hospital,01522 514 021
+18472,020 8366 2122,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-the-cavell-hospital,020 8367 8032
+18476,01483 570122,info@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-mount-alvernia-hospital,01483 532554
+18500,01702 608908,reception.southend@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-southend-private-hospital,
+18501,01200 445693,,https://www.bmihealthcare.co.uk/hospitals/bmi-gisburne-park-hospital,01200 445688
+18564,01472 251100,admin@sthughshospital.co.uk,http://www.sthughshospital.co.uk,01472 251130
+18620,01442 255 371,hemelhempstead@priorygroup.com,http://www.priorygroup.com/hemelhempstead,01442 265 630
+18621,01435 864 545,heathfield@priorygroup.com,http://www.priorygroup.com/heathfield,01435 869 609
+18622,01580 200 391,ticehurst@priorygroup.com,http://www.priorygroup.com/ticehurst,01580 201 006
+18624,01245 345 345,chelmsford@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-chelmsford,01245 346 177
+18625,0121 434 4343,woodbourne@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-woodbourne-birmingham,0121 434 3270
+18626,020 8462 7722,hayesgrove@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-hayes-grove,020 8462 5028
+18627,020 8876 8261,roehampton@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-roehampton-london,020 8392 2632
+18628,01483 489 211,woking@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-woking,01483 797 053
+18629,023 8084 0044,southampton@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-southampton,023 8020 7554
+18630,0161 904 0050,altrincham@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-altrincham,0161 980 4322
+18631,01772 691 122,preston@priorygroup.com,http://www.priorygroup.com/preston,01772 691 246
+18632,020 8882 8191,northlondon@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-north-london/north-london,020 8447 8138
+18634,0161 428 9511,cheadleroyal@priorygroup.com,http://www.priorygroup.com/cheadleroyal,0161 428 1870
+18635,01325 333192,middletonstgeorge@priorygroup.com,http://www.priorygroup.com/middletonstgeorge,01325 333 883
+18653,0117 952 5255,bristol@priorygroup.com,https://www.priorygroup.com/locations/priory-hospital-bristol,0117 952 5552
+18656,0333 200 1820,,http://www.southamptontreatmentcentre.nhs.uk,0333 200 1732
+18660,0333 200 4069,cuk.enquiriesneltc@nhs.net,http://www.nelondontreatmentcentre.nhs.uk,0208 598 4261
+18758,01829 732436,,,
+18761,01325 341700,sophie.howey@bmihealthcare.co.uk,https://www.bmihealthcare.co.uk/hospitals/bmi-woodlands-hospital,01325 341701
+18765,0121 204 3800,icare.birmingham@optegra.com,https://www.optegra.com,0121 204 3821
+18789,01628 667881,maidenhead@huntercombe.com,https://www.huntercombe.com/testimonials?center=701,
+18791,01785 840000,stafford@huntercombe.com,http://www.huntercombe.com,
+18802,01761 422222,,https://www.circlehealth.co.uk/bath,
+18807,01189 226 888,enquiries@circlereading.co.uk,http://www.circlereading.co.uk,
+18819,020 7460 2000,info@cromwellhospital.com,http://www.bupacromwellhospital.com,
+18826,01372 221 400,ashtead.enquiries@ramsayhealth.co.uk,http://www.ashteadhospital.co.uk,01372 221445
+18827,0118 902 8121,berkshire.enquiries@ramsayhealth.co.uk,http://www.berkshireindependenthospital.co.uk,0118 902 8050
+18829,01872 226115,duchy.enquiries@ramsayhealth.co.uk,http://www.duchyhospital.co.uk,01872 226118
+18830,01257 237002,euxton.enquiries@ramsayhealth.co.uk,http://www.euxtonhallhospital.co.uk,01257 261882
+18831,01733 842333,fitzwilliam.enquiries@ramsayhealth.co.uk,http://www.fitzwilliamhospital.co.uk,01733 842331
+18832,01772 707426,fulwood.enquiries@ramsayhealth.co.uk,http://www.fulwoodhallhospital.co.uk,01772 795131
+18833,01803 321690,mountstuart.enquiries@ramsayhealth.co.uk,http://www.mountstuarthospital.co.uk,01803 321698
+18834,01722 422333,newhall.enquiries@ramsayhealth.co.uk,http://www.new-hallhospital.co.uk,01722 435158
+18836,01883 348981,northdowns.enquiries@ramsayhealth.co.uk,http://www.northdownshospital.co.uk,01883 341163
+18837,01617 879 460,oaklands.enquiries@ramsayhealth.co.uk,http://www.oaklands-hospital.co.uk,0161 7878097
+18838,01206 753264,oaks.enquiries@ramsayhealth.co.uk,http://www.oakshospital.co.uk,01206 852701
+18839,01302 553332,parkhill.enquiries@ramsayhealth.co.uk,http://www.parkhillhospital.co.uk,01302 322499
+18840,01462 427218,pinehill.enquiries@ramsayhealth.co.uk,http://www.pinehillhospital.co.uk,01462 421968
+18841,01704 842017,renacres.enquiries@ramsayhealth.co.uk,http://www.renacreshospital.co.uk,01704 842030
+18842,01785 238682,rowley.enquiries@ramsayhealth.co.uk,http://www.rowleyhospital.co.uk,01785 249532
+18843,01245 234151,springfield.enquiries@ramsayhealth.co.uk,http://www.springfieldhospital.co.uk,01245 234 001
+18844,01279 602672,rivers.enquiries@ramsayhealth.co.uk,https://www.rivershospital.co.uk,01279 600212
+18846,01384 632618,westmidlands.enquiries@ramsayhealth.co.uk,http://www.westmidlandshospital.co.uk,01384411103
+18847,01452 306009,winfield.enquiries@ramsayhealth.co.uk,http://www.winfieldhospital.co.uk,
+18848,01536 536882,woodland.enquiries@ramsayhealth.co.uk,http://www.woodlandhospital.co.uk,01536 412155
+18850,01295 755000,horton.enquiries@ramsayhealth.co.uk,http://www.hortontreatmentcentre.co.uk,01295 7550001
+18852,01205 533998,boston.enquiries@ramsayhealth.co.uk,http://www.bostonwesthospital.co.uk,01205 591865
+18853,01904 464654,clifton.enquiries@ramsayhealth.co.uk,http://www.cliftonparkhospital.co.uk,01904 464551
+18854,0191 2703 250,cobalt.enquiries@ramsayhealth.co.uk,http://www.cobalthospital.co.uk,0191 2703 251
+18855,01908 334200,blakelands.enquiries@ramsayhealth.co.uk,http://www.blakelandshospital.co.uk,01908 334201
+18857,01200 445693,christinebailey@abbeyhospitals.com,http://www.ramsayhealth.co.uk/nhs,01200 445688
+18863,0115 9209 209,nottingham.enquiries@ramsayhealth.co.uk,http://www.woodthorpehospital.co.uk,0115 967 3005
+18864,0121 456 0880,westbourne.admin@nhs.net,http://www.westbournecentre.com,0121 455 0313
+18866,01744 739311,enquiries@fairfield.org.uk,https://www.fairfield.org.uk,01744 746444
+18875,0207 407 3100,info.lbh@hcahealthcare.co.uk,http://www.londonbridgehospital.com,0207 815 3604
+18887,01580 240333,,https://www.benendenhospital.org.uk,
+18909,01892 665577,info@horder.co.uk,https://www.horderhealthcare.co.uk,01892 662142
+39920,01386 502449,,https://www.hacw.nhs.uk/evesham-community-hospital,
+39921,01684 612600,,https://www.hacw.nhs.uk/malvern-community-hospital,
+39923,01527 488000,,https://www.hacw.nhs.uk/princess-of-wales-community-hospital,
+39930,01584 872201,shropcom.ludlowadmin@nhs.net,http://www.shropscommunityhealth.nhs.uk,01584 871100
+39931,01746 762641,shropcom.bridgnorthreception@nhs.net,http://www.shropscommunityhealth.nhs.uk,01746 711031
+39932,01588 638220,shropcom.bishopscastlehosp@nhs.net,http://www.shropscommunityhealth.nhs.uk,01588 630900
+39933,01948 666292,shropcom.whitchurchreception@nhs.net,http://www.shropscommunityhealth.nhs.uk,01948 660824
+39954,020 7055 5550,,https://www.bartshealth.nhs.uk/newham,0207 055 5649
+39955,020 7377 7000,rlhpals@bartshealth.nhs.uk,http://www.bartshealth.nhs.uk,
+39957,020 7377 7000,bhnt.pals@nhs.net,http://www.bartshealth.nhs.uk,
+39964,020 8539 5522,wxpals@bartshealth.nhs.uk,http://www.bartshealth.nhs.uk,
+39966,020 7377 7000,sbhpals.bartshealth@nhs.net,https://www.bartshealth.nhs.uk/st-bartholomews,
+39967,020 7476 4000,nuhpals@bartshealth.nhs.uk,http://www.bartshealth.nhs.uk,020 7363 8181
+39970,01483 571122,,http://www.royalsurrey.nhs.uk,01483 537747
+39985,01935 475122,communications@ydh.nhs.uk,http://www.yeovilhospital.nhs.uk,01935 426850
+39987,0117 923 0000,,http://www.uhbristol.nhs.uk/your-hospitals/bristol-royal-infirmary.html,
+39991,0117 342 5325,,http://www.uhbristol.nhs.uk/your-hospitals/st-michaels-hospital.html,
+39992,0117 342 4176,,http://www.uhbristol.nhs.uk/your-hospitals/bristol-eye-hospital.html,0117 342 4721
+39993,0117 342 4422,,http://www.uhbristol.nhs.uk/your-hospitals/university-of-bristol-dental-hospital.html,
+39995,0117 342 8460,,http://www.uhbristol.nhs.uk/your-hospitals/bristol-royal-hospital-for-children.html,
+40002,0117 923 0000,,http://www.uhbristol.nhs.uk/patients-and-visitors/your-hospitals/south-bristol-community-hospital,
+40006,01803 614567,chiefexecutive.sdhct@nhs.net,http://www.torbayandsouthdevon.nhs.uk,01803 616334
+40049,01803 881399,,https://www.torbayandsouthdevon.nhs.uk/visiting-us/ashburton-and-buckfastleigh-health-and-wellbeing-,
+40051,01626 868 500,,https://www.torbayandsouthdevon.nhs.uk/visiting-us/dawlish-community-hospital,
+40052,01626 324500,,https://www.torbayandsouthdevon.nhs.uk/visiting-us/newton-abbot-community-hospital,
+40053,01803 547171,,https://www.torbayandsouthdevon.nhs.uk/visiting-us/paignton-health-and-wellbeing-centre,
+40054,01626 772 161,,https://www.torbayandsouthdevon.nhs.uk/visiting-us/teignmouth-community-hospital,
+40055,01803 862622,,https://www.torbayandsouthdevon.nhs.uk/visiting-us/totnes-community-hospital,
+40058,01274 542200,,http://www.bradfordhospitals.nhs.uk,01274 364786
+40059,01274 734744,,http://www.bradfordhospitals.nhs.uk,
+40060,01274 773390,,,
+40061,01274 323200,,,
+40067,01702 435555,,http://www.southend.nhs.uk,01702 385856
+40069,01277 695000,,,
+40073,020 7794 0500,rf.pals@nhs.net,http://www.royalfree.nhs.uk,020 7830 2468
+40077,020 8349 7500,,,020 8346 6043
+40083,020 8952 2381,,http://www.royalfree.nhs.uk,020 8732 6807
+40087,020 3947 0100,rnoh.enquiries-sm@nhs.net,http://www.rnoh.nhs.uk,
+40088,020 3947 0100,rnoh.enquiries-sm@nhs.net,http://www.rnoh.nhs.uk,
+40091,020 8887 2000,,http://www.northmid.nhs.uk,
+40095,01895 238282,,https://www.thh.nhs.uk,
+40096,01923 826111,,https://www.thh.nhs.uk,
+40109,020 8546 7711,khft.pals@nhs.net,http://www.kingstonhospital.nhs.uk,020 85472182
+40115,01823 333444,,http://www.musgroveparkhospital.nhs.uk,
+40130,01305 251150,headquarters@dchft.nhs.uk,http://www.dchft.nhs.uk,01305 254155
+40154,01922 721172,contactus@walsallhealthcare.nhs.uk,http://www.walsallhealthcare.nhs.uk,
+40162,0151 678 5111,wuth.patientexperience@nhs.net,http://www.wuth.nhs.uk,
+40163,0151 678 5111,wih-tr.patientrelations@nhs.net,http://www.wuth.nhs.uk,0151 604 7148
+40164,0151 334 4000,wuth.patientexperience@nhs.net,http://www.wuth.nhs.uk,
+40168,0151 426 1600,kim.hughes@sthk.nhs.uk,http://www.sthk.nhs.uk,
+40169,0151 426 1600,kim.hughes@sthk.nhs.uk,http://www.sthk.nhs.uk,01744 646301
+40188,0151 600 1616,,http://www.lhch.nhs.uk,0151 600 1862
+40195,0151 228 4811,,http://www.alderhey.nhs.uk,0151 252 5846
+40199,01270 255141,,http://www.mchft.nhs.uk,01270 587696
+40200,01606 564000,,http://www.mcht.nhs.uk,01606 564020
+40204,0161 446 3000,enquiries@christie.nhs.uk,http://www.christie.nhs.uk,0161 446 3977
+40208,01271 322577,ndht.contactus@nhs.net,http://www.northdevonhealth.nhs.uk,01271 311541
+40220,01271 863 448,,http://www.northdevonhealth.nhs.uk/services/community/ilfracombe-tyrrell-hospital,01271 867 813
+40221,01409 253 424,,http://www.northdevonhealth.nhs.uk/services/community/holsworthy-hospital,
+40223,01271 322 577,,http://www.northdevonhealth.nhs.uk/services/community/bideford-hospital,
+40224,01805 622208,,http://www.northdevonhealth.nhs.uk/services/community/torrington,
+40225,01769 572 164,,http://www.northdevonhealth.nhs.uk/services/community/south-molton-hospital,
+40227,01234 355 122,communications@bedfordhospital.nhs.uk,http://www.bedfordhospital.nhs.uk/index.asp,01234 795 972
+40228,01234 355 122,communications@bedfordhospital.nhs.uk,https://www.bedfordhospital.nhs.uk/our-departments/clinical-departments/physiotherapy/out-patient-ph,01234 795 972
+40233,01582 491166,pals@ldh.nhs.uk,https://www.ldh.nhs.uk,
+40235,01347821214,,https://www.yorkhospitals.nhs.uk/our_hospitals/st_monicas_easingwold,01347821046
+40238,01904 631 313,,http://www.york.nhs.uk,
+40242,01653 693041,,http://www.york.nhs.uk,01653 604521
+40245,01904 724226,,http://www.york.nhs.uk,
+40248,01904 724626,,,
+40261,01423 885959,hello@hdft.nhs.uk,http://www.hdft.nhs.uk,
+40262,01423 542900,hello@hdft.nhs.uk,http://www.hdft.nhs.uk,01765 606628
+40267,01904 724300,,http://www.hdft.nhs.uk,
+40270,01535 652511,,http://www.airedale-trust.nhs.uk,01535 655129
+40274,01729 823515,personnel.dept@anhst.nhs.uk,http://www.airedale-trust.nhs.uk,01729 823082
+40275,01756 792233,personnel.dept@anhst.nhs.uk,http://www.airedale-trust.nhs.uk,
+40282,0114 2717000,sheffield.childrenshospital@sch.nhs.uk,http://www.sheffieldchildrens.nhs.uk,0114 272 3418
+40289,01553 613 613,,http://www.qehkl.nhs.uk,01553 613 700
+40303,01761 412315,,,
+40304,01225 428331,webmaster@ruh.nhs.uk,http://www.ruh.nhs.uk,
+40308,01202 665511,,http://www.poole.nhs.uk,
+40330,01908 660033,,http://www.mkuh.nhs.uk,01908 669348
+40342,01206 747474,communications@colchesterhospital.nhs.uk,https://www.esneft.nhs.uk,01206 742220
+40343,01206 747474,info@colchesterhospital.nhs.uk,http://www.colchesterhospital.nhs.uk,01206 744654
+40344,01787 291022,,http://www.midessex.nhs.uk,
+40354,01243 865418,,http://www.sussexcommunity.nhs.uk/services/locations/bognor_regis_hospital.htm,
+40395,0300 6145000,,https://www.fhft.nhs.uk,
+40411,01202 708881,,http://www.dorsethealthcare.nhs.uk,01202 701462
+40413,01202 584301,,http://www.dorsethealthcare.nhs.uk,01202 584311
+40415,01202 735537,,http://www.dorsethealthcare.nhs.uk,01202 730657
+40421,01202 492147,,http://www.dorsethealthcare.nhs.uk,
+40423,01202 858100,,http://www.dorsethealthcare.nhs.uk,01202 858111
+40425,01202 545400,,https://camhsdorset.org,
+40434,01202 848547,,http://www.wheresyourheadat.co.uk,01202 848547
+40437,01305 760022,,https://www.dorsethealthcare.nhs.uk/patients-and-visitors/our-services-hospitals/community-hospitals,
+40438,01305 786116,,http://www.dorsethealthcare.nhs.uk,
+40439,01305 820341,,http://www.dorsethealthcare.nhs.uk,01305 823148
+40440,01308 422371,,http://www.dorsethealthcare.nhs.uk,01308 426239
+40441,01258 456541,,http://www.dorsethealthcare.nhs.uk,01258 450786
+40442,01747 851535,,http://www.dorsethealthcare.nhs.uk,
+40443,01935 813991,,http://www.dorsethealthcare.nhs.uk,
+40444,01929 552433,,http://www.dorsethealthcare.nhs.uk,01929 550170
+40445,01202 856410,,http://www.dorsethealthcare.nhs.uk,01202 849516
+40446,01929 422282,,http://www.dorsethealthcare.nhs.uk,01929 423872
+40447,01202 584200,,http://www.dorsethealthcare.nhs.uk,
+40450,01202 486361,webmaster@rbch.nhs.uk,http://www.rbch.nhs.uk,01202 704077
+40451,01202 303626,communications@rbch.nhs.uk,http://www.rbch.nhs.uk,
+40457,0191 2832583,,,
+40466,0191 404 1000,chris.morgan@stft.nhs.uk,http://www.stft.nhs.uk,0191 2022197
+40467,0191 451 6375,chris.morgan@sthct.nhs.uk,http://www.sthct.nhs.uk,0191 428 4839
+40468,0191 402 8000,chris.morgan@stft.nhs.uk,http://www.stft.nhs.uk,
+40470,01736 874000,rcht.patientexperience@nhs.net,http://www.royalcornwall.nhs.uk,01736874081
+40471,01736 758854,rcht.patientexperience@nhs.net,http://www.royalcornwall.nhs.uk,01736 753344
+40472,01872 250000,rcht.patientexperience@nhs.net,http://www.royalcornwall.nhs.uk,01872 252708
+40481,0151 525 5980,,http://www.aintreehospital.nhs.uk,
+40504,0151 708 9988,,http://www.liverpoolwomens.nhs.uk,0151 702 4028
+40560,0151 525 3611,enquiries@thewaltoncentre.nhs.uk,http://www.thewaltoncentre.nhs.uk,0151 529 5500
+40563,0330 400 4333,,http://www.bhrhospitals.nhs.uk,
+40568,01708 435000,,http://www.bhrhospitals.nhs.uk,
+40570,01226 730000,,http://www.barnsleyhospital.nhs.uk,
+40573,01709 82 0000,communication@rothgen.nhs.uk,http://www.therotherhamft.nhs.uk,01709 42 4200
+40583,01246 277271,crhft.communications@nhs.net,http://www.chesterfieldroyal.nhs.uk,01246 512737
+40644,0113 855 5000,pals.lypft@nhs.net,http://www.leedsandyorkpft.nhs.uk,
+40646,0113 855 5000,pals.lypft@nhs.net,http://www.leedsandyorkpft.nhs.uk/home,
+40647,0113 855 6300,pals.lypft@nhs.net,http://www.leedsandyorkpft.nhs.uk,
+40648,0113 855 5000,pals.lypft@nhs.net,http://www.leedsandyorkpft.nhs.uk/home,
+40650,01223 638000,papworth.communications@nhs.net,https://royalpapworth.nhs.uk/our-hospital/getting-here,
+40654,01733 678000,,http://www.peterboroughandstamford.nhs.uk,
+40658,01733 678000,,https://www.nwangliaft.nhs.uk,
+40663,01493 452452,pals@jpaget.nhs.uk,http://www.jpaget.nhs.uk,01493 453086
+40715,01284 713000,,http://www.wsh.nhs.uk,01284 701993
+40719,01223 245151,contactcentre@addenbrookes.nhs.uk,https://www.cuh.nhs.uk/addenbrookes-hospital,
+40720,01223 245 151,contactcentre@addenbrookes.nhs.uk,https://www.cuh.nhs.uk/rosie-hospital,01223 216 090
+40768,01823 662663,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/wellington_hospital,
+40769,01460 238220,,http://www.sompar.nhs.uk/what-we-do/community-hospitals,
+40771,01643 701701,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/minehead_hospital,
+40772,01984 635600,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/williton_hospital,
+40773,01749 342931,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/shepton_mallet_hospital,
+40774,01458 836450,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/west_mendip_hospital,
+40775,01460 72491,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/crewkerne_hospital,
+40776,01460 243000,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/south_petherton_hospital,
+40777,01963 828444,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/wincanton_hospital,
+40778,01823 431930,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/dene_barton_hospital,
+40779,01373 454740,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/frome_hospital,
+40782,01392 411 611,rde-tr.pals@nhs.net,http://www.rdehospital.nhs.uk,
+40783,01392 411 611,,https://www.rdehospital.nhs.uk,
+40787,01837 658000,,,
+40788,01404 816 000,,,
+40790,01884 235400,,,
+40791,01404 540540,,,
+40793,01297 630400,,,
+40794,01395 279684,,,
+40804,01777 24 8321,,http://www.nottinghamshirehealthcare.nhs.uk/rampton-hospital,
+40841,0115 955 5477,,,
+40843,023 8077 7222,patientsupportservices@uhs.nhs.uk,http://www.uhs.nhs.uk,023 8120 4715
+40847,023 8077 7222,patientsupportservices@uhs.nhs.uk,http://www.uhs.nhs.uk,
+40857,0114 271 7800,,http://www.sth.nhs.uk,
+40860,0114 2434343,,http://www.sth.nhs.uk,
+40861,0114 243 4343,,http://www.sth.nhs.uk,
+40865,0114 226 5000,,http://www.sth.nhs.uk,
+40867,02392 680000,,http://www.porthosp.nhs.uk,023 9286 6413
+40868,023 9228 6000,,http://www.porthosp.nhs.uk,023 9286 6413
+40870,02392 524611,,https://www.southernhealth.nhs.uk/locations/gosport-war-memorial-hospital,
+40884,0118 322 5111,nhs.choices@royalberkshire.nhs.uk,http://www.royalberkshire.nhs.uk,
+40885,01753 860 441,,http://www.royalberkshire.nhs.uk,
+40918,020 7188 7188,pals@gstt.nhs.uk,https://www.guysandstthomas.nhs.uk,
+40919,020 7188 7188,pals@gstt.nhs.uk,https://www.guysandstthomas.nhs.uk,
+40922,020 8333 3000,,http://www.lewishamandgreenwich.nhs.uk,020 8333 3333
+40924,020 8401 3000,,http://www.croydonhealthservices.nhs.uk,
+40925,020 8401 3515,,http://www.croydonhealthservices.nhs.uk,
+40949,0208 672 1255,communications@stgeorges.nhs.uk,http://www.stgeorges.nhs.uk,
+40952,020 8487 6000,,https://www.stgeorges.nhs.uk,
+40965,01726 873000,,http://www.cornwallft.nhs.uk/hospitals/st-austell,
+40966,01637 834800,,https://www.cornwallft.nhs.uk/newquay-community,
+40968,01209 318000,,http://www.cornwallft.nhs.uk/hospitals/camborne-redruth,
+40970,01208 251300,cpn-tr.enquiries@nhs.net,http://www.cornwallft.nhs.uk,01208 251580
+40971,01288 320100,,http://www.cornwallft.nhs.uk/stratton-community,
+40973,01566 761000,,https://www.cornwallft.nhs.uk/launceston-community,
+40975,01926 495321,,http://www.swft.nhs.uk,01926 482603
+40976,01789 205831,,http://www.swft.nhs.uk,01789 262855
+40977,01608 661410,,http://www.swft.nhs.uk,
+41013,01782 715444,,http://www.uhnm.nhs.uk,
+41017,01827 263 800,,http://www.burtonhospitals.nhs.uk,
+41019,01472 874111,nlg-tr.pals@nhs.net,http://www.nlg.nhs.uk/hospitals/grimsby,
+41021,01724 282282,nlg-tr.pals@nhs.net,http://www.nlg.nhs.uk/hospitals/scunthorpe,
+41028,01260 294800,,http://www.eastcheshire.nhs.uk,
+41030,01565 757220,,http://www.eastcheshire.nhs.uk,
+41031,01625 421000,,http://www.eastcheshire.nhs.uk,
+41035,01244 365000,cochpals@nhs.net,http://www.coch.nhs.uk,01244 365 292
+41036,01244 362986,cochpals@nhs.net,http://www.coch.nhs.uk/eph,
+41042,020 3299 9000,kch-tr.palsdh@nhs.net,http://www.kch.nhs.uk,
+41053,01623 622515,sfh-tr.pet@nhs.net,http://www.sfh-tr.nhs.uk,01623 621770
+41054,01623 622515,,http://www.sfh-tr.nhs.uk,01623 635537
+41058,01636 681681,sfh-tr.pet@nhs.net,http://www.sfh-tr.nhs.uk,01636 685971
+41066,01752 202082,,http://www.plymouthhospitals.nhs.uk,
+41067,01752 202082,,https://www.plymouthhospitals.nhs.uk,
+41070,024 76964000,info@uhcw.nhs.uk,http://www.uhcw.nhs.uk,024 76966056
+41072,01788 572831,info@uhcw.nhs.uk,http://www.uhcw.nhs.uk,01788 545151
+41078,020 7272 3070,,https://www.whittington.nhs.uk,
+41083,020 8483 2900,cassel.hospital@nhs.net,https://www.westlondon.nhs.uk/contact-us/sites-and-locations/cassel-hospital-services,020 8483 2996
+41084,01344 773 111,,http://www.wlmht.nhs.uk,
+41089,01691 404000,,http://www.rjah.nhs.uk,01691 404239
+41093,01902 307999,your.comments@rwh-tr.nhs.uk,http://www.royalwolverhampton.nhs.uk,01902 695600
+41116,0191 565 6256,chscomms@chsft.nhs.uk,http://www.stsft.nhs.uk,0191 514 0220
+41117,0191 565 6256,corporate.affairs@chs.northy.nhs.uk,http://www.chsft.nhs.uk,
+41122,01432 355 444,pals@wvt.nhs.uk,http://www.wyevalley.nhs.uk,
+41123,01885 485700,,,
+41126,01568 614211,pals@wvt.nhs.uk,http://www.wyevalley.nhs.uk,
+41127,01989 562100,pals@wvt.nhs.uk,,
+41134,024 76351351,enquiries@geh.nhs.uk,http://www.geh.nhs.uk,024 76865175
+41145,01782 441600,,,
+41147,01603 286 286,communications@nnuh.nhs.uk,http://www.nnuh.nhs.uk,
+41155,01263 513571,communications@nnuh.nhs.uk,http://www.nnuh.nhs.uk,
+41161,0161 789 7373,,http://www.srft.nhs.uk,
+41197,01204 390390,,http://www.boltonft.nhs.uk,
+41222,0161 922 6000,,http://www.tamesidehospital.nhs.uk,0161 331 6026
+41224,01603 421421,,https://www.nsft.nhs.uk/Pages/Home.aspx,
+41225,0300 123 4969,,http://www.nsft.nhs.uk,
+41226,01493 337652,info@nwmghp.nhs.uk,http://www.nwmhp.nhs.uk,01493 337674
+41228,01953 455800,,http://www.nsft.nhs.uk/Pages/Home.aspx,01953 458862
+41230,01502 527474,,http://www.nsft.nhs.uk,01502 538262
+41246,01672 517200,,https://www.gwh.nhs.uk,
+41247,01793 604020,,http://www.gwh.nhs.uk,01793 604021
+41249,01249 447100,,http://www.gwh.nhs.uk,
+41250,01225 711300,,http://www.gwh.nhs.uk,
+41260,01256 473 202,customercare@hhft.nhs.uk,http://www.hampshirehospitals.nhs.uk,01256 313098
+41261,01962863535,hampshire.hospitals@hhft.nhs.uk,http://www.hampshirehospitals.nhs.uk,
+41262,01264 358 811,hampshire.hospitals@hhft.nhs.uk,http://www.hampshirehospitals.nhs.uk,
+41265,01322 428100,dgn-tr.enquiries@nhs.net,http://www.dgt.nhs.uk,
+41268,01384 456111,communications@dgh.nhs.uk,http://www.dudleygroup.nhs.uk,01384 244051
+41269,01384 456111,communications@dgh.nhs.uk,http://www.dgh.nhs.uk,
+41270,01384 456111,communications@dgh.nhs.uk,http://www.dgh.nhs.uk,
+41302,01228 523444,,http://www.ncuh.nhs.uk/index.aspx,
+41311,01768 245555,,http://www.cumbriapartnership.nhs.uk,
+41316,01900 705776,,https://www.cumbriapartnership.nhs.uk/where-we-work/cockermouth-community-hospital,
+41341,01536 492000,enquiries@kgh.nhs.uk,http://www.kgh.nhs.uk,01536 493767
+41354,01722 336262,sft.pals@nhs.net,http://www.salisbury.nhs.uk,
+41381,01536 410141,,http://www.nhft.nhs.uk,
+41384,01933 235800,,,
+41403,+44 (0)20 7405 9200,,http://www.gosh.nhs.uk,
+41405,01909 500990,,http://www.dbth.nhs.uk,01909 502246
+41406,01302 366666,,http://www.dbth.nhs.uk,01302 320098
+41408,01709 585171,,http://www.dbh.nhs.uk,01709 571689
+41409,01777 274400,,http://www.dbh.nhs.uk,01777 710535
+41412,020 7253 3411,,http://www.moorfields.nhs.uk,020 7253 4696
+41431,01522 597933,,,
+41437,01522 573553,,,01522
+41438,01476 464848,,,
+41440,01634 830 000,choices@medway.nhs.uk,http://www.medway.nhs.uk,01634 829 470
+41475,01342 414000,qvh.info@nhs.net,http://www.qvh.nhs.uk,01342 414414
+41493,01689 880 000,,,01689 852 211
+41494,0203 953 6340,,http://www.oxleas.nhs.uk,
+41495,020 8836 8500,,http://www.oxleas.nhs.uk,
+41496,020 8302 2678,,http://qmh.oxleas.nhs.uk,
+41504,020 7352 8171,patientcentre@royalmarsden.nhs.uk,http://www.royalmarsden.nhs.uk,020 8661 3335
+41505,020 8642 6011,patientcentre@rmh.nhs.uk,http://www.royalmarsden.nhs.uk,020 8661 3335
+41507,0121 333 9999,,http://www.bwc.nhs.uk,0121 333 9998
+41545,020 3315 8000,,http://www.chelwest.nhs.uk,
+41556,01279 444455,,http://www.pah.nhs.uk,01279 429371
+41569,020 8510 5555,huh-tr.enquiries@nhs.net,http://www.homerton.nhs.uk,020 8510 7608
+41571,0203 513 5000,,http://www.swlstg.nhs.uk,
+41573,0203 513 5000,,https://www.swlstg.nhs.uk,0203 513 5471
+41576,020 3513 5000,,http://www.swlstg.nhs.uk,
+41607,0191 482 0000,ghnt.pals.service@nhs.net,http://www.qegateshead.nhs.uk,
+41608,0191 482 0000,pals@ghnt.nhs.uk,http://www.qegateshead.nhs.uk,
+41611,0113 243 2799,,http://www.leedsth.nhs.uk,
+41612,0113 2440111,,http://www.leedsth.nhs.uk,
+41614,(01943) 465522,,http://www.leedsth.nhs.uk,
+41615,0113 243 3144,,http://www.leedsth.nhs.uk,
+41616,(0113) 2648164,,http://www.leedsth.nhs.uk,
+41618,(0113) 2623404,,http://www.leedsth.nhs.uk,
+41635,0300 790 7000,enquiries@mpft.nhs.uk,https://www.mpft.nhs.uk,01785 258969
+41723,01942 244000,patient.relations@wwl.nhs.uk,http://www.wwl.nhs.uk/hospitals/leigh.aspx,01942 822042
+41724,01942 244000,patient.relations@wwl.nhs.uk,http://www.wwl.nhs.uk/hospitals/raei.aspx,01942 822042
+41728,01942 244000,patient.relations@wwl.nhs.uk,http://www.wwl.nhs.uk/hospitals/wrightington/default.aspx,01942 822042
+41735,0121 685 4000,roh.comms@nhs.net,http://www.roh.nhs.uk,0121 685 4100
+41754,0121 371 2000,communications@uhb.nhs.uk,http://www.uhb.nhs.uk,0121 627 2834
+41804,020 3456 7890,,http://www.uclh.nhs.uk,
+41806,020 3456 7898,,http://www.uclh.nhs.uk/OurServices/OurHospitals/HH/Pages/Home.aspx,
+41807,020 3456 7890,rlhhpatients@uclh.org,http://www.uclh.nhs.uk/rlhim,020 7391 8829
+41822,020 3456 7890,,http://www.uclh.nhs.uk,
+41823,020 3456 7891,,http://www.uclh.nhs.uk,
+41826,01223219400,,http://www.cpft.nhs.uk,
+41841,01895 823 737,pals@rbht.nhs.uk,http://www.rbht.nhs.uk,
+41842,020 7352 8121,pals@rbht.nhs.uk,http://www.rbht.nhs.uk,020 7351 8473
+41862,(0191) 233 6161,foundation.office@nuth.nhs.uk,http://www.newcastle-hospitals.nhs.uk,(0191) 213 1968
+41863,0191 233 6161,foundation.office@nuth.nhs.uk,http://www.newcastle-hospitals.nhs.uk,0191 201 0155
+41865,(0191) 233 6161,foundation.office@nuth.nhs.uk,http://www.newcastle-hospitals.nhs.uk,(0191) 282 4671
+41871,0191 233 6161,,http://www.gnch.nhs.uk,
+41887,0300 422 2222,,http://www.gloshospitals.nhs.uk,
+41889,03004 222 222,,http://www.gloshospitals.nhs.uk,
+41929,0300 422 3785,,,
+41931,01666 502336,,https://tetburyhospital.co.uk,
+41947,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/berwick,
+41948,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/alnwick,
+41954,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/hexham,
+41956,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/haltwhistle,
+41957,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/blyth,
+41960,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/wansbeck,
+41961,01669 620 555,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/rothbury,
+41969,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/north-tyneside,
+41980,01332 265500,uhdb.contactpalsderby@nhs.net,http://www.uhdb.nhs.uk,
+41982,01332 340131,uhdb.contactpalsderby@nhs.net,https://www.uhdb.nhs.uk,01332 785566
+41984,0300 3047777,pals@ouh.nhs.uk,http://www.ouh.nhs.uk/hospitals/churchill/default.aspx,
+41986,0300 3047777,pals@ouh.nhs.uk,http://www.ouh.nhs.uk/hospitals/horton/default.aspx,
+41987,0300 3047777,pals@ouh.nhs.uk,http://www.ouh.nhs.uk/hospitals/jr/default.aspx,
+42026,01932 872000,asp-tr.patient.advice@nhs.net,http://www.ashfordstpeters.nhs.uk,
+42027,01784 884488,asp-tr.patient.advice@nhs.net,http://www.ashfordstpeters.nhs.uk,
+42109,01287 676205,,,
+42129,01609 779911,,http://www.southtees.nhs.uk,
+42130,01287 284000,,http://www.southtees.nhs.uk,
+42131,01642 850850,,https://www.southtees.nhs.uk,
+42182,01524 65944,trusthq@mbht.nhs.uk,http://www.uhmb.nhs.uk,01524 846346
+42186,01229 870870,trusthq@mbht.nhs.uk,http://www.uhmb.nhs.uk,
+42187,01539 732288,trusthq@mbht.nhs.uk,http://www.uhmb.nhs.uk,01539 740852
+42192,020 3315 8733,,http://www.cnwl.nhs.uk/services/acute,020 8746 8711
+42210,020 3228 6000,,http://www.slam.nhs.uk/our-services/hospital-care/lambeth-hospital,
+42211,020 3228 6000,,http://www.slam.nhs.uk/our-services/hospital-care/maudsley-hospital,
+42212,020 3228 6000,,http://www.slam.nhs.uk/our-services/hospital-care/bethlem-royal-hospital,
+42248,01964 614666,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+42256,01482 335647,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+42257,01482 335829,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,01482 336926
+42259,01482 303775,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,01482 336922
+42260,01482 336830,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+42262,01482 617565,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,01482 617501
+42268,0117 9505050,complaints@nbt.nhs.uk,http://www.nbt.nhs.uk,
+42279,0117 9505050,complaints@nbt.nhs.uk,http://www.nbt.nhs.uk,
+42280,0117 340 8400,complaints@nbt.nhs.uk,http://www.nbt.nhs.uk,
+42316,01225 831500,,http://www.awp.nhs.uk,
+42324,0117 3784012,,http://www.awp.nhs.uk,
+42330,01380 731335,awp.wilts-iapt@nhs.net,https://iapt-wilts.awp.nhs.uk,
+42343,0117 919 5600,,http://www.awp.nhs.uk,
+42347,020 8296 2000,pals@epsom-sthelier.nhs.uk,http://www.epsom-sthelier.nhs.uk,020 8641 4546
+42348,020 8296 2000,est-tr.pals@nhs.net,http://www.epsom-sthelier.nhs.uk,020 8770 7051
+42349,020 8296 2000,est-tr.pals@nhs.net,http://www.epsom-sthelier.nhs.uk,020 8641 4546
+42351,01372 735 735,pals@epsom-sthelier.nhs.uk,http://www.epsom-sthelier.nhs.uk,01372 735 159
+42362,01233 633331,,http://www.ekhuft.nhs.uk/williamharvey,
+42363,01304 222510,,http://www.ekhuft.nhs.uk/buckland,
+42366,01843 225544,,http://www.ekhuft.nhs.uk/qeqm,
+42445,01227 766877,,http://www.ekhuft.nhs.uk/kentandcanterburyhospital,
+42476,01642 617617,communications@nth.nhs.uk,http://www.nth.nhs.uk,
+42477,01642 617617,communications@nth.nhs.uk,http://www.nth.nhs.uk,01642 624089
+42483,01704 547471,soh-tr.info@nhs.net,http://www.southportandormskirk.nhs.uk,
+42484,01695 577111,soh-tr.info@nhs.net,http://www.southportandormskirk.nhs.uk,
+42489,023 8047 5200,,http://www.southernhealth.nhs.uk,023 80475200
+42508,01489 587400,,http://www.southernhealth.nhs.uk/services/community-health-services/hospitals/fareham,
+42619,0151 473 0303,,https://www.merseycare.nhs.uk/our-services/our-sites/ashworth-hospital,
+42628,01772 401600,,,
+42638,01524 400445,,,
+42643,0161 624 0420,,http://www.pat.nhs.uk,
+42644,0161 624 0420,,http://www.pat.nhs.uk,0161 740 4450
+42645,0161 624 0420,,http://www.pat.nhs.uk,0161 627 3130
+42646,0161 624 0420,,http://www.pat.nhs.uk,01706 655474
+42647,01706 377777,,http://www.pat.nhs.uk,
+42660,01482 875875,,https://www.hey.nhs.uk,
+42661,01482 875875,,https://www.hey.nhs.uk,
+42670,01522 512512,,http://www.ulh.nhs.uk,
+42671,01205 364801,,http://www.ulh.nhs.uk,
+42679,01664 854800,,http://www.uhl-tr.nhs.uk/our-services/medical-services/i-n/maternity-services/st-marys-birth-centre,
+42680,0300 303 1573,,http://www.leicestershospitals.nhs.uk,
+42681,0300 303 1573,communications@uhl-tr.nhs.uk,http://www.leicestershospitals.nhs.uk,
+42682,0300 303 1573,communications@uhl-tr.nhs.uk,http://www.leicestershospitals.nhs.uk,
+42686,01622 729000,mtw-tr.palsoffice@nhs.net,http://www.mtw.nhs.uk,
+42705,01322 622222,,,01322 672042
+42710,01892 823535,mtw-tr.palsoffice@nhs.net,http://www.mtw.nhs.uk,
+42713,01923 244366,communications@whht.nhs.uk,https://www.westhertshospitals.nhs.uk,
+42714,01727 866122,communications@whht.nhs.uk,https://www.westhertshospitals.nhs.uk,
+42716,01442 213141,communications@whht.nhs.uk,https://www.westhertshospitals.nhs.uk,
+42718,01438 314333,,http://www.enherts-tr.nhs.uk,
+42720,01438 314333,,http://www.newqeii.info,
+42721,01438 314333,,http://www.enherts-tr.nhs.uk/our-hospitals/hertford-county,
+42725,0161 483 1010,pcs@stockport.nhs.uk,http://www.stockport.nhs.uk,0161 419 4679
+42735,020 8121 5001,,http://www.elcmht.nhs.uk,
+42750,01527 503 030,wah-tr.pet@nhs.net,http://www.worcsacute.nhs.uk/our-hospitals/alexandra-hospital-redditch,
+42754,01562 823 424,wah-tr.pet@nhs.net,http://www.worcsacute.nhs.uk/our-hospitals/kidderminster-hospital-and-treatment-centre,
+42755,01905 763 333,wah-tr.pet@nhs.net,http://www.worcsacute.nhs.uk/our-hospitals/worcestershire-royal-hospital,
+42827,01392 208866,dpn-tr.pals@nhs.net,http://www.dpt.nhs.uk,
+42833,01392 674300,,http://www.dpt.nhs.uk,
+42840,01928 714567,whh.enquiries@nhs.net,http://www.whh.nhs.uk,
+42841,01925 635911,whh.enquiries@nhs.net,http://www.whh.nhs.uk,01925 662424
+42843,0118 960 5000,,https://www.berkshirehealthcare.nhs.uk/our-sites/reading/prospect-park-hospital,
+42864,01484 342000,communications@cht.nhs.uk,http://www.cht.nhs.uk,01484 342888
+42865,01422 357171,communications@cht.nhs.uk,http://www.cht.nhs.uk,01422 380357
+42880,0115 969 1169,nuhcommunications@nuh.nhs.uk,http://www.nuh.nhs.uk,0115 875 4655
+42881,0115 924 9924,,http://www.nuh.nhs.uk,
+42885,01273 718680,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-aldrington-centre,
+42890,01273 621984,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-mill-view-hospital,01273 242046
+42893,0300 304 0055,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-acreuk/location-acre-day-hospital,
+42922,01323 440022,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-hellingly-centre,
+42924,01323 440022,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-amberstone-hospital,
+42941,01293 590400,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-langley-green-hospital,
+42952,01325 552000,,http://www.tewv.nhs.uk,
+42955,01388 645300,,http://www.tewv.nhs.uk/aucklandparkhospital,
+42975,03000132000 (ext. 2),,http://www.tewv.nhs.uk/westlanehospital,
+42984,01325 552000,,http://www.tewv.nhs.uk/westparkhospital,01325 552203
+42986,01429 285601,,http://www.tewv.nhs.uk/sandwellpark,
+42990,01723 384600,,http://www.tewv.nhs.uk/crosslanehospital,
+43002,0191 566 7001,,http://www.cntw.nhs.uk,0191 566 7002
+43003,0191 2466800,,http://www.cntw.nhs.uk,
+43004,01661 838400,,http://www.cntw.nhs.uk,
+43005,0191 2466800,,http://www.cntw.nhs.uk,
+43007,0191 2466800,,http://www.cntw.nhs.uk,
+43010,0191 246 6800,,https://www.cntw.nhs.uk,
+43021,01244397300,info@cwp.nhs.uk,http://www.cwp.nhs.uk,01244 397281
+43032,0300 131 4500,,http://www.esht.nhs.uk/conquest,
+43033,0300 131 4500,,http://www.esht.nhs.uk/eastbournedgh,
+43034,0300 131 4500,,http://www.esht.nhs.uk/bexhill,
+43044,01302 796000,,http://www.rdash.nhs.uk,
+43046,01924 541000,,http://www.midyorks.nhs.uk,
+43048,01924 541000,,http://www.midyorks.nhs.uk,
+43050,01924 541000,,http://www.midyorks.nhs.uk,
+43057,01924 316000,customer.servicesswyt@nhs.net,http://www.southwestyorkshire.nhs.uk,
+43065,01226 644400,customer.servicesswyt@nhs.net,http://www.southwestyorkshire.nhs.uk,
+43073,01273 696955,,http://www.bsuh.nhs.uk,01273 626653
+43074,01273 696011,sct.communications@nhs.net,http://www.sussexcommunity.nhs.uk,01273 626653
+43075,01273 696955,,http://www.bsuh.nhs.uk,
+43076,01273 696955,,http://www.bsuh.nhs.uk,
+43077,01444 441881,,http://www.bsuh.nhs.uk,
+43107,0121 553 1831,,http://www.swbh.nhs.uk,0121 607 3117
+43108,0121 554 3801,,http://www.swbh.nhs.uk,0121 507 5636
+43110,0121 507 6300,,http://www.swbh.nhs.uk,0121 607 3469
+43136,01253 300000,communications@bfwhospitals.nhs.uk,http://www.bfwhospitals.nhs.uk,01253 306873
+43141,01253 300000,bfwh.trustcommunications@nhs.net,https://www.bfwh.nhs.uk,
+43182,01257 261222,enquiries@lthtr.nhs.uk,https://www.lancsteachinghospitals.nhs.uk,
+43183,01772 716565,enquiries@lthtr.nhs.uk,http://www.lancsteachinghospitals.nhs.uk,01772 522162
+43192,01388 455000,information@cddft.nhs.uk,http://www.cddft.nhs.uk,01388 454127
+43195,0191 333 2333,information@cddft.nhs.uk,http://www.cddft.nhs.uk,0191 333 3761
+43198,0191 333 2333,information@cddft.nhs.uk,http://www.cddft.nhs.uk,0191 333 2685
+43200,0191 333 2333,information@cddft.nhs.uk,http://www.cddft.nhs.uk,0191 333 2685
+43202,01325 380100,information@cddft.nhs.uk,http://www.cddft.nhs.uk,01325 743200
+43208,01296 315000,,http://www.buckshealthcare.nhs.uk/For%20patients%20and%20visitors/stoke-mandeville-hospital.htm,01296 316640
+43209,01494 526 161,,http://www.buckshealthcare.nhs.uk,
+43210,01494 434411,,http://www.buckshealthcare.nhs.uk/For%20patients%20and%20visitors/amersham-hospital.htm,
+43211,01280 813243,,http://www.buckshealthcare.nhs.uk,01280 824966
+43212,01844 212727,,http://www.buckshealthcare.nhs.uk,
+43213,01753 883821,bht.pals@nhs.net,http://www.buckshealthcare.nhs.uk,
+43214,01628 482292,,http://www.buckshealthcare.nhs.uk,
+43223,01282 425071,contact@elht.nhs.uk,http://www.elht.nhs.uk,01282 474444
+43224,01254 263555,contact@elht.nhs.uk,http://www.elht.nhs.uk,01254 293512
+43226,01282 425071,contact@elht.nhs.uk,http://www.elht.nhs.uk,
+43227,01254 359003,,http://www.elht.nhs.uk,
+43293,0121 301 4411,,http://www.bsmhft.nhs.uk,
+43294,0121 301 6140,,http://www.bsmht.nhs.uk,
+43299,0121 678 4935,,http://www.bsmhft.nhs.uk,
+43300,0121 301 7350,,http://www.bsmhft.nhs.uk,
+43302,0121 678 4004,,http://www.bsmhft.nhs.uk,
+43304,0121 678 4860,,http://www.bsmht.nhs.uk,
+43306,0121 301 4100,,http://www.bsmht.nhs.uk,
+43319,0121 301 6100,,https://www.bsmhft.nhs.uk,0121 301 6101
+43322,0121 301 3000,,https://www.bsmhft.nhs.uk,
+43323,0121 301 7333,,http://www.bsmhft.nhs.uk,
+43327,0121 301 4930,,http://www.bsmhft.nhs.uk,
+43332,0121 301 5300,,https://www.bsmhft.nhs.uk,
+43333,0121 301 2002,,https://www.bsmhft.nhs.uk,
+43334,0121 301 2200,,https://www.bsmhft.nhs.uk,
+43335,0121 301 5700,,https://www.bsmhft.nhs.uk,
+43337,0161 773 9121,,https://www.gmmh.nhs.uk,
+43348,01743 261000,sath.info@nhs.net,http://www.sath.nhs.uk,01743 261006
+43349,01952 641222,sath.info@nhs.net,http://www.sath.nhs.uk,01952 243405
+43381,0300 5555 222,,http://www.sabp.nhs.uk,
+43566,01227 459371,,https://www.kmpt.nhs.uk/locations/st-martins-hospital/6834,
+43621,01322 622222,,http://www.kmpt.nhs.uk,01322 622497
+43627,01622 725000,,http://www.kmpt.nhs.uk,01622 725290
+43654,01603 255720,,,
+43655,01603 776776,,http://www.norfolkcommunityhealthandcare.nhs.uk,
+43656,01362 655210,,http://www.nchc.nhs.uk,
+43657,01692 408000,,http://www.norfolkcommunityhealthandcare.nhs.uk,
+43659,01263 710575,,http://www.norfolkcommunityhealthandcare.nhs.uk,
+43660,01760 726550,,http://www.norfolkcommunityhealthandcare.nhs.uk,
+43666,01754 762 401,,http://www.lincolnshirecommunityhealthservices.nhs.uk/content/skegness-hospital,
+43667,01775 652 000,,http://www.lincolnshirecommunityhealthservices.nhs.uk/content/johnson-community-hospital,
+43668,01427 816 500,,http://www.lincolnshirecommunityhealthservices.nhs.uk/content/john-coupland-hospital,
+43669,01507 600100,,http://www.lincolnshirecommunityhealthservices.nhs.uk/content/county-hospital-louth,
+43674,01629 580211,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/whitworthhospital,
+43675,01246 515 505,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/waltonhospital,
+43676,01773824171,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/babington-hospital,
+43678,01773 743456,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/ripleyhospital,
+43679,01629 812 525,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/newholmehospital,
+43680,01246 252900,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/claycross_hospital,
+43681,01246 827 901,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/bolsoverhospital,
+43682,01298 212800,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/cavendishhospital,
+43683,0115 9305522,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/ilkeston,
+43750,01926 406789,,https://www.covwarkpt.nhs.uk/st-michaels,
+43764,0121 329 4900,,https://www.covwarkpt.nhs.uk/brooklands,
+43800,020 3312 6666,,https://www.imperial.nhs.uk/our-locations/st-marys-hospital,
+43801,020 3311 1234,,https://www.imperial.nhs.uk/our-locations/charing-cross-hospital,
+43802,020 3313 1000,,https://www.imperial.nhs.uk/our-locations/hammersmith-hospital,
+43803,020 3313 1111,,https://www.imperial.nhs.uk/our-locations/queen-charlottes-and-chelsea-hospital,
+43804,020 3312 6666,,https://www.imperial.nhs.uk/our-locations/western-eye-hospital,
+43868,01903 205111,,http://www.westernsussexhospitals.nhs.uk,
+43869,(01243) 788122,firstname.surname@wsht.nhs.uk,http://www.westernsussexhospitals.nhs.uk,
+43870,01903 205111,,http://www.westernsussexhospitals.nhs.uk,01903 285045
+43873,01223 603051,ccs-tr.pals@nhs.net,,
+43886,0121 466 5555,dental.hospital@nhs.net,http://www.bhamcommunity.nhs.uk/dental-hospital,
+43888,0121 466 6000,,http://www.bhamcommunity.nhs.uk,
+43889,0121 466 6000,,,
+43926,01795 562068,,http://www.kentcht.nhs.uk,
+43939,01227 594700,,http://www.kentcht.nhs.uk,
+43943,01795 879100,,http://www.kentcht.nhs.uk,
+43944,01795 418300,,http://www.kentcht.nhs.uk,
+43952,01304 865400,,http://www.kentcht.nhs.uk,
+43956,01227 594400,,http://www.kentcht.nhs.uk,
+43962,01303 850202,,,
+43966,01732 863164,,http://www.kentcht.nhs.uk,
+43967,01580 753345,,http://www.kentcht.nhs.uk,
+43969,01732 470200,,http://www.kentcht.nhs.uk,
+43970,01732 353653,,http://www.kentcht.nhs.uk,
+43971,01474 360500,,http://www.virgincare.co.uk,
+44072,01274 494194,,http://www.bdct.nhs.uk,01274 483494
+44186,0845 1461800,,http://www.bcpft.nhs.uk,0121 6128090
+44188,0845 146 1800,,,
+44189,0121 612 8628,communications.team@bcpft.nhs.uk,http://www.bcpft.nhs.uk,0121 6128090
+45362,01606 597630,,http://www.mcht.nhs.uk,
+45365,0115 924 9924 (ext. 61111),,,
+45407,0191 441 5700,,http://www.tewv.nhs.uk/lanchesterroad,0191 441 5701
+45473,0800 019 3346,,https://www.2gether.nhs.uk/learning-disabilities,
+45485,020 8215 9200,,http://www.nelft.nhs.uk,
+45488,01903 882543,,http://www.sussexcommunity.nhs.uk/services,
+45492,01482 336740,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+45548,01228 608345,,https://www.cumbriapartnership.nhs.uk/where-we-work/brampton-war-memorial-hospital,
+45555,016973 66600,,http://www.cumbriapartnership.nhs.uk,016973 66601
+45556,01900 705000,,http://www.cumbriapartnership.nhs.uk,
+45629,0191 2875000,,http://www.cntw.nhs.uk,
+45964,01883 837500,,http://www.firstcommunityhealthcare.co.uk,
+46506,01865 903709,,http://www.royalberkshire.nhs.uk/how-to-find-us/townlands-hospital-in-henley.htm,
+46583,020 7540 4380,,,
+46584,020 8510 2003,,,
+46586,020 8475 2001,,,
+46607,0118 949 5000,,https://www.berkshirehealthcare.nhs.uk/our-sites/bracknell-wokingham/wokingham-hospital,
+46615,020 3513 3200,,,
+46651,01274 425990,,,
+46715,01206 744 222,colchester@alliance.co.uk,https://www.alliancemedical.co.uk,01206 744 224
+58580,00000 000000,,,
+58612,01732 763 491,hayleymason@cygnethealth.co.uk,http://www.cygnethealth.co.uk/locations/godden-green/index.html,01732 763 460
+58613,01274 686 767,jennymcvinnie@cygnethealth.co.uk,http://www.cygnethealth.co.uk/locations/bierley,01274 686 660
+58614,01934 428989,lornamatthews@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/kewstoke,01934 428980
+58618,0808 301 2823,icare.yorkshire@optegra.com,https://www.optegra.com,0207 0221651
+58619,01483 903 001,icare.surrey@optegra.com,https://www.optegra.com,01483 903 099
+58620,0161 240 0700,icare.manchester@optegra.com,https://www.optegra.com,0161 240 0799
+58622,01329 316 700,icare.hampshire@optegra.com,https://www.optegra.com,01329 316 799
+58803,020 7535 7700,info@nightingalehospital.co.uk,http://www.nightingalehospital.co.uk,020 7724 5976
+59039,01502 719820,,http://www.ecch.org,
+59350,0151 514 2888,,,
+59646,0151 330 6551,,,
+59676,01483 782300,,,
+59909,02380540666,,https://www.southernhealth.nhs.uk/locations/western-community-hospital,
+60121,03001230975,,http://www.staffordshireandstokeontrent.nhs.uk,
+60240,01892 863637,enquiries@burrswood.org.uk,http://www.burrswood.org.uk,
+60338,0300 300 2016,,https://www.iow.nhs.uk,
+60374,01483782400,,,
+60502,020 8949 9000,,https://www.newvictoria.co.uk,
+60504,02088467777,,,
+60526,01274322093,,,
+60874,01403 227000,,http://www.sussexcommunity.nhs.uk/services/locations/horsham_hospital.htm,
+61047,0300 555 1045,,,
+61351,01278 773100,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/burnham_hospital,
+61394,01363 775588,,,
+61422,01326 430000,,https://www.cornwallft.nhs.uk/falmouth-community,
+61530,0114 271 1900,,,
+61619,01902 444000,,http://www.wolvespct.nhs.uk/Services/Service_pages/West_Park.asp,
+61862,01548 852349,,,
+61908,01768 245678,,https://www.ncic.nhs.uk,
+61913,01946 853333 (ext. 4),,https://www.ncic.nhs.uk,
+61929,01434 381218,,https://www.ncic.nhs.uk,
+61968,01865 902400,,,
+61977,01865 904423,enquiries@oxfordhealth.nhs.uk,http://www.oxfordhealth.nhs.uk,
+62043,01205 446552,,,
+62085,01522 500690,,,
+62089,01205 354900,,,
+62173,01932 588400,enquires@epsomedical.co.uk,http://www.epsomedical.co.uk,
+62380,020 8505 3311,,http://www.theholly.com,
+62381,02089718000,,,
+62382,020 8341 4182,enquiries@highgatehospital.co.uk,http://www.highgatehospital.co.uk,
+62397,020 7730 7733,,,
+62824,0300 790 7000,,http://www.sssft.nhs.uk,
+63570,01964 561322,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+63729,030 0003 2196,,,
+63911,020 8510 8117,,,
+64419,01628 632012,,https://www.berkshirehealthcare.nhs.uk,
+64420,01753 821441,,https://www.berkshirehealthcare.nhs.uk/our-sites/slough/upton-hospital,
+65308,0115 907 1440,,,
+65344,01253 657053,,,
+65794,01476 565232,,,
+66639,01142716098,,http://www.shsc.nhs.uk,
+66640,0114 2716098,,http://www.shsc.nhs.uk,0114 2716996
+66781,0121 301 7369,,http://www.bsmhft.nhs.uk,
+67454,01772 777400,,https://www.lancashirecare.nhs.uk/Longridge,
+68511,020 8836 6000,,http://www.lewishamandgreenwich.nhs.uk,020 8836 4590
+68571,0115 969 3388,nottingham@priorygroup.com,http://www.priorygroup.com/nottingham,0115 969 3381
+68751,01785 257731,,http://www.uhnm.nhs.uk,
+68956,01298 214 000,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/buxtonhospital,
+68957,01246 565 000,dchst.patientexperienceteam@nhs.net,http://www.dchs.nhs.uk/home_redesign/our-services/find_services_by_location/ashgreen_learning_disabi,
+69166,01325 380100,,,
+70368,01865 901000,,,
+70370,01865 901000,,http://www.oxfordhealth.nhs.uk,
+70406,01923 633000,,http://www.hpft.nhs.uk,
+70467,01865 903880,,http://www.oxfordhealth.nhs.uk/service_description/bicester-community-hospital,
+70616,01482 344530,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+70635,01377 208700,,,
+70670,01482336619,,,
+71264,0113 855 5000,pals.lypft@nhs.net,http://www.leedsandyorkpft.nhs.uk,
+71705,01205 446530,,,
+72361,020 8216 4600,,https://www.royalfree.nhs.uk,
+72595,0115 969 1300,,http://www.nottinghamshirehealthcare.nhs.uk/highbury,
+72660,01507 543 300,,,
+72763,01327 708800,,https://www.nhft.nhs.uk/danetre,
+73017,020 3317 3500,,,
+73167,01865 904222,,https://www.oxfordhealth.nhs.uk/service_description/witney-community-hospital,
+73169,01865 904346,,,
+73661,023 8042 3203,,https://www.southernhealth.nhs.uk/locations/hythe-hospital,
+73752,01590 663000,,https://www.southernhealth.nhs.uk/locations/lymington-new-forest-hospital,
+74411,02036442301,,,
+74534,0114 2261600,,http://www.shsc.nhs.uk,
+74780,01279 655191,,https://www.hct.nhs.uk,
+74783,01438 841800,,,
+75009,02382 319000,,https://www.southernhealth.nhs.uk/locations/petersfield-community-hospital,
+75095,023 8231 0350,,https://www.southernhealth.nhs.uk/locations/romsey-hospital,
+75250,01833 696500,,,
+75333,0300 123 1894,,http://www.staffordshireandstokeontrent.nhs.uk/Services/leek-moorlands-hospital.htm,
+75334,0300 7900 232,,http://www.staffordshireandstokeontrent.nhs.uk,
+75335,0300 123 0905,,https://www.mpft.nhs.uk,
+75398,01702 478885,info@chartwellprivatehospital.co.uk,http://www.chartwelldiagnostics.co.uk,01702 509050
+75803,01736 571300,,http://www.cornwallft.nhs.uk/hospitals/edward-hain,
+75804,01326 430200,,http://www.cornwallft.nhs.uk/hospitals/helston,
+75806,01720 422392,,https://www.cornwallft.nhs.uk/st-marys-community,
+75906,01273 474153,,,
+75984,02476321507,,http://www.covwarkpt.nhs.uk,
+76380,0208 205 8003,icare.northlondon@optegra.com,https://www.optegra.com,0208 205 5076
+76398,020 7386 1177,,,
+76480,01753 860441,,,
+76998,01584 810643,,http://www.hacw.nhs.uk/our-services/community-hospitals/tenbury-hospital,
+77051,0300 303 1268,,https://www.mpft.nhs.uk/services/haywood-community-hospital,
+77807,01256 393600,,,
+77810,01252 813800,,,
+78045,01473 329467,,http://www.nsft.nhs.uk,
+78486,01843 234555,enquiries@spencerhospitals.com,http://www.spencerprivatehospitals.com,
+78514,01283 566333,,https://www.uhdb.nhs.uk,
+78822,01536 748086,,https://www.nhft.nhs.uk/adult-community-beds,
+78925,020 3228 0720,,http://www.slam.nhs.uk,
+352756,0300 421 8770,,http://www.glos-care.nhs.uk/our-services/community-hospitals/north-cotswolds-hospital,
+462443,020 8694 2111,rebeccapye@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/cygnet-hospital-blackheath,020 8694 8256
+462444,01484 405 900,clareheaton@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/cygnet-lodge-brighouse,01484 405 905
+462451,020 8314 5123,rebeccapye@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/cygnet-lodge-lewisham,020 8314 5271
+462452,020 8907 0770,,https://www.cygnethealth.co.uk/locations/cygnet-lodge-kenton,020 8907 0772
+462554,020 7511 2299,jackiewolf@cygnethealth.co.uk,http://www.cygnethealth.co.uk/locations/beckton,020 7511 3399
+462557,01332 365434,markvarney@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/derby,01332 292974
+462558,020 8991 6699,,https://www.cygnethealth.co.uk/locations/cygnet-hospital-ealing,020 8991 0440
+462559,01423 500599,robynsteel@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/cygnet-hospital-harrogate,
+462560,020 8966 7000,alexanderlawrence@cygnethealth.co.uk,http://www.cygnethealth.co.uk/locations/harrow,020 8864 6092
+462561,01438 342942,jemmalacey@cygnethealth.co.uk,https://www.cygnethealth.co.uk/locations/stevenage,01438 721147
+462562,01274 605500,,https://www.cygnethealth.co.uk/locations/cygnet-hospital-wyke,01274 604400
+462800,01227 833700,cedar.house@huntercombe.com,http://www.huntercombe.com,
+570366,01246 512563,,http://www.derbyshirehealthcareft.nhs.uk,
+864654,01535678100,,,
+864773,01723 368111,,http://www.york.nhs.uk,01723 342 581
+978682,020 3603 3844,,,
+978693,0151 473 0303,,https://www.merseycare.nhs.uk/our-services/our-sites/broadoak-unit,
+978694,0151 473 0303,,https://www.merseycare.nhs.uk/our-services/our-sites/windsor-house,
+978695,0151 473 0303,,https://www.merseycare.nhs.uk/our-services/our-sites/mossley-hill-hospital,
+978699,0151 473 0303,,https://www.merseycare.nhs.uk/our-services/our-sites/rathbone-hospital,
+978723,020 8714 4000,,http://www.hrch.nhs.uk/our-services/clinics-health-centres/teddington-memorial-hospital,
+979468,01482 886600,,http://www.chcpcic.org.uk,
+979644,0113 8550600,pals.lypft@nhs.net,http://www.leedsandyorkpft.nhs.uk,
+1094717,01430 879 656,marketweighton@priorygroup.com,http://www.priorygroup.com/marketweighton,01430 871 630
+1094732,01924 436 140,dewsbury@priorygroup.com,http://www.priorygroup.com/dewsbury,
+1094756,01689 863000,,http://pruh.kch.nhs.uk,
+1094758,01689 863000,,http://pruh.kch.nhs.uk,
+1094869,01630 673800,eldertree.lodge@huntercombe.com,http://huntercombe.com,
+1095035,0121 301 5922,,http://www.bsmhft.nhs.uk,
+1095154,01256 817718,,,
+1095168,01425 652255,,http://www.southernhealth.nhs.uk/services/community-health-services/hospitals/fordingbridge,
+1095826,020 8206 7000,,https://www.cnwl.nhs.uk,
+1095914,01707 653286,,,
+1095944,0300 421 6200,,https://www.ghc.nhs.uk/locations/cirencester-hospital,
+1095945,0300 421 8494,,http://www.glos-care.nhs.uk,
+1095946,0300 421 6100,,http://www.glos-care.nhs.uk,
+1095947,0300 421 8640,,http://www.glos-care.nhs.uk,
+1095948,0300 421 8722,,http://www.glos-care.nhs.uk,
+1095949,0300 421 6470,,http://www.glos-care.nhs.uk,
+1095950,0300 421 8080,,http://www.glos-care.nhs.uk,
+1096059,0191 445 5231,,,
+1169049,01635 273300,,https://www.berkshirehealthcare.nhs.uk/our-sites/west-berkshire/west-berkshire-community-hospital,
+1169069,0114 263 0330,info@claremont-hospital.co.uk,http://www.claremont-hospital.co.uk,0114 263 2122
+1279606,0300 6145000,,https://www.fhft.nhs.uk,
+1279646,01749 333600,connie.stocker@careuk.com,http://www.sheptonmallettreatmentcentre.nhs.uk,01749 333601
+1279647,0117 906 1801,,http://www.emersonsgreentreatmentcentre.nhs.uk,0117 906 1950
+1279653,01752 506070,patricia.warwick@careuk.com,http://www.peninsulatreatmentcentre.nhs.uk,
+1349252,01278 436 555,,http://www.sompar.nhs.uk/our_services/adult_services/hospitals/bridgwater_hospital,
+1349731,02076351012,,,
+1349762,01622 237 500,enquiries@kims.org.uk,http://www.kims.org.uk,
+1349810,0121 301 0500,,http://www.bsmhft.nhs.uk,
+1521809,01903 843200,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-meadowfield-hospital,01903 843266
+1521810,01444 472670,info@sussexpartnership.nhs.uk,http://www.sussexpartnership.nhs.uk/location-chalkhill,
+1708524,01865 902000,,http://www.oxfordhealth.nhs.uk/whiteleaf,
+1819387,0203 668 9490,,,
+1819863,01572 722 552,,,
+1819864,01858 410300,,,
+2026442,01243 376041,,,
+2027168,020 8375 2999,bcfpals@nhs.net,https://www.royalfree.nhs.uk,
+2027176,01482 336200,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+2131250,0344 811 8111,contactus@northumbria.nhs.uk,https://www.northumbria.nhs.uk/emergency,
+2309255,01902 444141,,http://www.bcpft.nhs.uk,
+2309377,0114 2261937,,,0114 2261559
+2309420,01543 572757,,,
+2489913,020 8510 2340,,,
+2596948,0161 918 8515,,https://www.penninecare.nhs.uk/your-services/child-and-adolescent-mental-health-services-camhs,
+2704015,01295 252281,reception@thefoscotehospital.co.uk,http://www.thefoscotehospital.co.uk,01295 272877
+2917635,01704 563279,enquiries@isightclinics.com,http://www.isightclinics.com,01704 550057
+2917651,020 8864 3232,lnwh-tr.trust@nhs.net,http://www.lnwh.nhs.uk,
+2917652,020 8965 5733,lnwh-tr.trust@nhs.net,http://www.lnwh.nhs.uk,
+2917653,020 8864 3232,,http://www.stmarkshospital.nhs.uk,
+2917654,020 8967 5000,lnwh-tr.trust@nhs.net,https://www.lnwh.nhs.uk,
+2917659,01604 634700,,,
+2917660,024 7693 2500,,https://www.covwarkpt.nhs.uk/caludon-centre,
+3028092,0300 6145000,,https://www.fhft.nhs.uk,
+3028142,0151 334 1155,,http://www.clatterbridgecc.nhs.uk,
+3028281,020 8337 6691,info@spirestanthonys.com,https://www.spirehealthcare.com/spire-st-anthonys-hospital,
+3137672,0300 5556655,,https://www.cambscommunityservices.nhs.uk/contact,
+3137676,01945 488088,,http://www.cpft.nhs.uk,
+3137680,01353 652000,,https://www.cambscommunityservices.nhs.uk/contact,
+3138301,01992 561666,,,
+3580194,0800 015 0211,,http://www.rdash.nhs.uk/services/our-services/adult-mental-health-services/adult-community-mental-he,
+3580196,0800 804 8999,,http://www.rdash.nhs.uk/services/our-services/adult-mental-health-services/adult-community-mental-he,
+3664766,01452 894500,,https://www.ghc.nhs.uk,
+3664840,01926 317 700,,,
+3774995,01502 535000,,http://www.nsft.nhs.uk,
+3775034,01603421421,,http://www.nsft.nhs.uk,
+3775035,01493 444465,,http://www.nsft.nhs.uk,
+3775074,020 3049 0400,,,
+3775539,01823 336457,,https://www.cygnethealth.co.uk/locations/cygnet-hospital-taunton,
+3995215,020 8560 4011,,https://www.lnwh.nhs.uk/clayponds,
+4209586,01626 888372,,http://www.dpt.nhs.uk,
+4621852,01625 501 314,info@priorygroup.com,http://www.priorygroup.com/park-villa,
+4622618,020 8560 2121,,http://www.chelwest.nhs.uk,
+4732682,01253 447700,,,
+4842842,01214 203 701,info@priorygroup.com,http://www.priorygroup.com/beverley-house,
+4952846,0203 7582050,,,
+4953026,01892 652284,,http://www.sussexcommunity.nhs.uk,
+5065244,01932 588400,enquiries@epsomedical.co.uk,http://www.epsomedical.co.uk,01932 865870
+5176076,0151 4827636,,http://www.cwp.nhs.uk/locations/1112-springview-hospital-clatterbridge-health-park-wirral,
+5176991,0207 683 4527,,http://www.homerton.nhs.uk/our-services/services-a-z/s/st-leonards-hospital,
+5177144,01737 768 511,,,
+5372875,01233 423000,ashford.info@onehealthcare.co.uk,https://www.onehealthcare.co.uk/ashford,
+5373060,01947 899200,hnf-tr.contactus@nhs.net,http://www.humber.nhs.uk,
+5373148,0161 762 7200,,https://www.cygnethealth.co.uk/locations/cygnet-hospital-bury,
+5373149,0114 279 3350,,https://www.cygnethealth.co.uk/locations/cygnet-hospital-sheffield,
+5373150,01483 795 100,,https://www.cygnethealth.co.uk/locations/cygnet-hospital-woking,
+5480244,01904 556 840,tewv.iaptyorkselby@nhs.net,http://www.yor-ok.org.uk/service-detail.htm?serviceid=6169,
+5480313,01579 373500,,http://www.cornwallft.nhs.uk/hospitals/liskeard,
+5904543,0330 058 4280,contact@spamedica.co.uk,http://www.spamedica.co.uk,01204 441340
+6518173,00000 000000,,,
+6518175,00000 000000,,,
+6701659,01322 622374,,http://www.virgincare.co.uk/service-hub/north-kent-adults,
+6795504,0115 937 7800,ntgbookings@spirehealthcare.com,https://www.spirehealthcare.com/spire-nottingham-hospital,0115 937 7826
+7071384,01244 397258,,http://www.mymind.org.uk,
+7353080,01480 416416,,https://www.nwangliaft.nhs.uk,
+7560330,020 3946 0010,croydon.enquiries@ramsayhealth.co.uk,https://www.westvalleyhospital.co.uk,
+7560659,01405 720720,,,
+7560822,01702 538000,,,
+7757945,0300 123 0808,,,
+8028120,01642 087334,,https://www.teesvalleyhospital.co.uk,
+8228408,01615078822,info@manchesterprivatehospital.co.uk,http://www.manchesterprivatehospital.co.uk,01615078828
+8228422,0161 276 1234,,https://mft.nhs.uk/mri,
+8228423,0161 276 1234,,https://mft.nhs.uk/rmch,
+8228424,0161 276 1234,,https://mft.nhs.uk/royal-eye,
+8228425,0161 276 1234,,https://mft.nhs.uk/saint-marys,
+8228427,01619987070,,https://mft.nhs.uk/wythenshawe,
+8228428,01614345555,,https://mft.nhs.uk/withington,
+8228429,0161 748 4022,,https://mft.nhs.uk/trafford,
+8228430,0161 413 7700,,https://mft.nhs.uk/altrincham,
+8228458,0161 393 7730,,https://mft.nhs.uk/dental,
+8329710,01707 443333,hatfield.info@onehealthcare.co.uk,http://onehealthcare.co.uk/hatfield,
+8431103,0330 058 4280,contact@spamedica.co.uk,https://www.spamedica.co.uk,
+8836829,020 7935 1200,,https://www.weymouthstreethospital.com,
+8836833,0121 466 6000,,http://www.bhamcommunity.nhs.uk/patients-public/rehabilitation,
+9242464,01283 511511,,https://www.uhdb.nhs.uk,
+9445752,0121 424 2000,,https://www.uhb.nhs.uk,
+9445753,0121 424 2000,,https://www.uhb.nhs.uk,
+9445754,01214242000,,https://www.uhb.nhs.uk,
+10075654,01949 829378,,https://www.cygnethealth.co.uk/locations/cygnet-cedar-vale,
+10075656,0121 458 2263,,https://www.cygnethealth.co.uk/locations/cygnet-wast-hills,
+10075671,01325 252 002,,https://www.cygnethealth.co.uk/locations/hollyhurst,
+10512701,0000 0000 000,dhu.patient-experience@nhs.net,http://www.dhuhealthcare.com,
+10802752,0115 896 3160,enquiries@trentpts.co.uk,http://www.trentpts.co.uk,
+10802753,0115 896 3160,enquiries@trentpts.co.uk,http://www.trentpts.co.uk,
+10802821,0151 473 0303,,,
+10880408,01228 602000,,http://www.cntw.nhs.uk,
+10917648,01227 206 700,enquiries@spencerhospitals.com,https://www.spencerprivatehospitals.com,
